@@ -1,0 +1,501 @@
+Convex optimization is a subfield of mathematical optimization that studies the problem of minimizing convex functions over convex sets (or, equivalently, maximizing concave functions over convex sets).  Many classes of convex optimization problems admit polynomial-time algorithms,[1] whereas mathematical optimization is in general NP-hard.[2][3][4]
+
+Definition
+Abstract form
+A convex optimization problem is defined by two ingredients:[5][6]
+
+The goal of the problem is to find some 
+
+
+
+
+
+x
+
+∗
+
+
+
+∈
+C
+
+
+{\displaystyle \mathbf {x^{\ast }} \in C}
+
+ attaining
+
+In general, there are three options regarding the existence of a solution:[7]: chpt.4 
+
+Standard form
+A convex optimization problem is in standard form if it is written as
+
+where:[7]: chpt.4 
+
+The feasible set 
+
+
+
+C
+
+
+{\displaystyle C}
+
+ of the optimization problem consists of all points 
+
+
+
+
+x
+
+∈
+
+
+D
+
+
+
+
+{\displaystyle \mathbf {x} \in {\mathcal {D}}}
+
+ satisfying the inequality and the equality constraints. This set is convex because 
+
+
+
+
+
+D
+
+
+
+
+{\displaystyle {\mathcal {D}}}
+
+ is convex, the sublevel sets of convex functions are convex, affine sets are convex, and the intersection of convex sets is convex.[7]: chpt.2 
+
+Many optimization problems can be equivalently formulated in this standard form. For example, the problem of maximizing a concave function 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ can be re-formulated equivalently as the problem of minimizing the convex function 
+
+
+
+−
+f
+
+
+{\displaystyle -f}
+
+. The problem of maximizing a concave function over a convex set is commonly called a convex optimization problem.[8]
+
+Epigraph form (standard form with linear objective)
+In the standard form it is possible to assume, without loss of generality, that the objective function f is a linear function. This is because any program with a general objective can be transformed into a program with a linear objective by adding a single variable t and a single constraint, as follows:[9]: 1.4 
+
+Conic form
+Every convex program can be presented in a conic form, which means minimizing a linear objective over the intersection of an affine plane and a convex cone:[9]: 5.1 
+
+where K is a closed pointed convex cone, L is a linear subspace of Rn, and b is a vector in Rn. A linear program in standard form in the special case in which K is the nonnegative orthant of Rn.
+
+Eliminating linear equality constraints
+
+It is possible to convert a convex program in standard form, to a convex program with no equality constraints.[7]: 132  Denote the equality constraints hi(x)=0 as Ax=b, where A has n columns. If Ax=b is infeasible, then of course the original problem is infeasible. Otherwise, it has some solution x0 , and the set of all solutions can be presented as: Fz+x0, where z is in Rk, k=n-rank(A), and F is an n-by-k matrix. Substituting x = Fz+x0 in the original problem gives: 
+
+
+
+
+
+
+
+
+
+
+
+minimize
+
+x
+
+
+
+
+
+
+f
+(
+
+F
+
+z
+
++
+
+
+x
+
+
+0
+
+
+
+)
+
+
+
+
+
+
+s
+u
+b
+j
+e
+c
+t
+ 
+t
+o
+
+
+
+
+
+g
+
+i
+
+
+(
+
+F
+
+z
+
++
+
+
+x
+
+
+0
+
+
+
+)
+≤
+0
+,
+
+i
+=
+1
+,
+…
+,
+m
+
+
+
+
+
+
+{\displaystyle {\begin{aligned}&{\underset {\mathbf {x} }{\operatorname {minimize} }}&&f(\mathbf {F\mathbf {z} +\mathbf {x} _{0}} )\\&\operatorname {subject\ to} &&g_{i}(\mathbf {F\mathbf {z} +\mathbf {x} _{0}} )\leq 0,\quad i=1,\dots ,m\\\end{aligned}}}
+
+
+where the variables are z. Note that there are rank(A) fewer variables. This means that, in principle, one can restrict attention to convex optimization problems without equality constraints. In practice, however, it is often preferred to retain the equality constraints, since they might make some algorithms more efficient, and also make the problem easier to understand and analyze.
+
+Special cases
+The following problem classes are all convex optimization problems, or can be reduced to convex optimization problems via simple transformations:[7]: chpt.4 [10]
+
+Other special cases include;
+
+Properties
+The following are useful properties of convex optimization problems:[11][7]: chpt.4 
+
+These results are used by the theory of convex minimization along with geometric notions from functional analysis (in Hilbert spaces) such as the Hilbert projection theorem, the separating hyperplane theorem, and Farkas' lemma.[citation needed]
+
+Algorithms
+Unconstrained and equality-constrained problems
+The convex programs easiest to solve are the unconstrained problems, or the problems with only equality constraints. As the equality constraints are all linear, they can be eliminated with linear algebra and integrated into the objective, thus converting an equality-constrained problem into an unconstrained one. 
+
+In the class of unconstrained (or equality-constrained) problems, the simplest ones are those in which the objective is quadratic. For these problems, the KKT conditions (which are necessary for optimality) are all linear, so they can be solved analytically.[7]: chpt.11 
+
+For unconstrained (or equality-constrained) problems with a general convex objective that is twice-differentiable, Newton's method can be used. It can be seen as reducing a general unconstrained convex problem, to a sequence of quadratic problems.[7]: chpt.11 Newton's method can be combined with line search for an appropriate step size, and it can be mathematically proven to converge quickly.
+
+Other efficient algorithms for unconstrained minimization are gradient descent (a special case of steepest descent).
+
+General problems
+The more challenging problems are those with inequality constraints. A common way to solve them is to reduce them to unconstrained problems by adding a barrier function, enforcing the inequality constraints, to the objective function. Such methods are called interior point methods.[7]: chpt.11 They have to be initialized by finding a feasible interior point using by so-called phase I methods, which either find a feasible point or show that none exist. Phase I methods generally consist of reducing the search in question to a simpler convex optimization problem.[7]: chpt.11 
+
+Convex optimization problems can also be solved by the following contemporary methods:[12]
+
+Subgradient methods can be implemented simply and so are widely used.[15] Dual subgradient methods are subgradient methods applied to a dual problem.  The drift-plus-penalty method is similar to the dual subgradient method, but takes a time average of the primal variables.[citation needed]
+
+Lagrange multipliers
+Consider a convex minimization problem given in standard form by a cost function 
+
+
+
+f
+(
+x
+)
+
+
+{\displaystyle f(x)}
+
+ and inequality constraints 
+
+
+
+
+g
+
+i
+
+
+(
+x
+)
+≤
+0
+
+
+{\displaystyle g_{i}(x)\leq 0}
+
+ for 
+
+
+
+1
+≤
+i
+≤
+m
+
+
+{\displaystyle 1\leq i\leq m}
+
+. Then the domain 
+
+
+
+
+
+X
+
+
+
+
+{\displaystyle {\mathcal {X}}}
+
+ is:
+
+The Lagrangian function for the problem is[16]
+
+For each point 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ in 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ that minimizes 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ over 
+
+
+
+X
+
+
+{\displaystyle X}
+
+, there exist real numbers 
+
+
+
+
+λ
+
+0
+
+
+,
+
+λ
+
+1
+
+
+,
+…
+,
+
+λ
+
+m
+
+
+,
+
+
+{\displaystyle \lambda _{0},\lambda _{1},\ldots ,\lambda _{m},}
+
+ called Lagrange multipliers, that satisfy these conditions simultaneously:
+
+If there exists a "strictly feasible point", that is, a point 
+
+
+
+z
+
+
+{\displaystyle z}
+
+ satisfying
+
+then the statement above can be strengthened to require that 
+
+
+
+
+λ
+
+0
+
+
+=
+1
+
+
+{\displaystyle \lambda _{0}=1}
+
+.
+
+Conversely, if some 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ in 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ satisfies (1)–(3) for scalars 
+
+
+
+
+λ
+
+0
+
+
+,
+…
+,
+
+λ
+
+m
+
+
+
+
+{\displaystyle \lambda _{0},\ldots ,\lambda _{m}}
+
+ with 
+
+
+
+
+λ
+
+0
+
+
+=
+1
+
+
+{\displaystyle \lambda _{0}=1}
+
+ then 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ is certain to minimize 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ over 
+
+
+
+X
+
+
+{\displaystyle X}
+
+.
+
+Software
+There is a large software ecosystem for convex optimization. This ecosystem has two main categories: solvers on the one hand and modeling tools (or interfaces) on the other hand.
+
+Solvers implement the algorithms themselves and are usually written in C. They require users to specify optimization problems in very specific formats which may not be natural from a modeling perspective. Modeling tools are separate pieces of software that let the user specify an optimization in higher-level syntax. They manage all transformations to and from the user's high-level model and the solver's input/output format. 
+
+The table below shows a mix of modeling tools (such as CVXPY and Convex.jl) and solvers (such as CVXOPT and MOSEK). This table is by no means exhaustive.
+
+Octave
+
+Applications
+Convex optimization can be used to model problems in a wide range of disciplines, such as automatic control systems, estimation and signal processing, communications and networks, electronic circuit design,[7]: 17  data analysis and modeling, finance, statistics (optimal experimental design),[21] and structural optimization, where the approximation concept has proven to be efficient.[7][22] Convex optimization can be used to model problems in the following fields:
+
+Extensions
+Extensions of convex optimization include the optimization of biconvex, pseudo-convex, and quasiconvex functions. Extensions of the theory of convex analysis and iterative methods for approximately solving non-convex minimization problems occur in the field of generalized convexity, also known as abstract convex analysis.[citation needed]
+
+See also
+Notes
+References
+External links

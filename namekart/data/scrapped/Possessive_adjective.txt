@@ -1,0 +1,50 @@
+Possessive determiners are determiners which express possession. Some traditional grammars of English refer to them as possessive adjectives, though they do not have the same syntactic distribution as bona fide adjectives.[1]
+
+Examples in English include possessive forms of the personal pronouns, namely: my, your, his, her, its, our and their, but excluding those forms such as mine, yours, ours, and theirs that are used as possessive pronouns but not as determiners. Possessive determiners may also be taken to include possessive forms made from nouns, from other pronouns and from noun phrases, such as John's, the girl's, somebody's, the king of Spain's, when used to modify a following noun.
+
+In many languages, possessive determiners are subject to agreement with the noun they modify, as in the French mon, ma, mes, respectively the masculine singular, feminine singular and plural forms corresponding to the English my.
+
+Comparison with determiners
+Possessive determiners, as used in English and some other languages, imply the definite article. For example, my car implies the car of mine. (However, "This is the car I have" implies that it is the only car you have, whereas "This is my car" does not imply that to the same extent. Similarly, "my brother" can mean equally well "one of my brothers" as "the one brother I have".) It is not correct to precede possessives with an article (*the my car) or (in today's English) another definite determiner such as a demonstrative (*this my car), although they can combine with quantifiers in the same ways that the can (all my cars, my three cars, etc.; see English determiners). This is not the case in all languages; for example in Italian the possessive is usually preceded by another determiner such as an article, as in la mia macchina ("my car", literally "the my car").[citation needed]
+
+Nomenclature
+While some classify the words my, your, etc. as possessive adjectives,[2] the differences noted above make others not consider them adjectives, at least not in English, and prefer possessive determiners. In some other languages, the equivalent parts of speech behave more like true adjectives, however.
+
+The words my, your, etc., are sometimes classified, along with mine, yours, etc., as possessive pronouns[3][4] or genitive pronouns, since they are the possessive (or genitive) forms of the ordinary personal pronouns I, you, etc. However, unlike most other pronouns, they do not behave grammatically as stand-alone nouns but instead qualify another noun, as in my book (contrasted with that's mine, for example, in which mine substitutes for a complete noun phrase such as my book). For that reason, other authors restrict the term "possessive pronoun" to the group of words mine, yours, etc., which replaces directly a noun or noun phrase.[5][6]
+
+Some authors who classify both sets of words as "possessive pronouns" or "genitive pronouns" apply the terms dependent/independent[7] or weak/strong[8] to refer, respectively, to my, your, etc., and mine, yours, etc. For example, under that scheme, my is termed a dependent possessive pronoun and mine an independent possessive pronoun.
+
+In linguistic terminology, possessive forms are also referred to as ktetic forms since Latin: possessivus has its equivalent in Ancient Greek: κτητικός (ktētikós). The term ktetic is used in reference to ktetic (possessive) adjectives and also to other ktetic (possessive) forms, including names derived from ktetics (ktetic personal names).[9]
+
+In English
+The basic pronominal possessive determiners in Modern English are personal my, your, his, her, its, our and their, interrogative whose[10] (as in Whose coat is this?) and relative whose (as in the woman whose car was stolen or the car whose license plate was stolen). As noted above, they indicate definiteness, like the definite article the. Whosever means of whichever person or thing. Archaic forms include thy, mine/thine (for my/thy before a vowel) and whosesoever. For details, see English personal pronouns.
+
+Other possessive determiners (although they may not always be classed as such though they play the same role in syntax) are the words and phrases formed by attaching the clitic -'s (or sometimes just an apostrophe after -s) to indefinite pronouns, nouns or noun phrases (sometimes called determiner phrases). Examples include Jane's, heaven's, the boy's, Jesus', the soldiers', those men's, the king of England's, one's, somebody's.
+
+For more details of the formation and use of possessives in English, see English possessive. For more details about the use of determiners generally, see English determiners.
+
+Other languages
+Though in English the possessive determiners indicate definiteness, in other languages the definiteness needs to be added separately for grammatical correctness.
+
+In Norwegian the phrase "my book" would be boka mi,[11] where boka is the definite form of the feminine noun bok (book), and mi (my) is the possessive pronoun following feminine singular nouns.
+
+In some Romance languages such as French and Italian, the gender of the possessive determiners agrees with the thing(s) owned, not with the owner. French, for example, in the singular, uses son for masculine nouns and also for feminine noun phrases starting with a vowel, sa elsewhere; compare Il a perdu son chapeau ("He lost his hat") with Elle a perdu son chapeau ("She lost her hat"). In that respect, the possessive determiners in these languages resemble ordinary adjectives. French also correlates possessive determiners to both the plurality of the possessor and possessee, as in notre voiture (our car) and nos voitures (our cars). In Modern Spanish, however, not all possessive determiners change to reflect the gender of the possessee, as is the case for mi, tu, and su, e.g. mi hijo y mi hija ("my son and my daughter"). In the first and second person plural forms--nuestra/nuestro and vuestra/vuestro—possessive determiners do mark gender inflection in the singular, e.g., nuestra nuera y nuestro yerno ("our daughter-in-law and our son-in-law"). All possessive determiners mark the plurality of the possessee, e.g. Mi esposa tiene mis gafas ("My wife has my glasses"). Spanish possessive pronouns agree with the gender and plurality of the possessee, e.g. Esas niñas son nuestras. Ese bolígrafo es nuestro. ("Those girls are ours. That pen is ours.").
+
+In Italian, constructions such as il tuo libro nero ("the your book black ", rendered in English as "your black book") and quel tuo libro nero ("that your book black", rendered in English as "that black book of yours") are grammatically correct. In Italian, possessive determiners behave in almost every respect like adjectives.
+
+Some Germanic languages, such as English and Dutch, use different pronouns depending on the owner. English has the (uninflected) words his and her; Dutch uses the (uninflected) zijn and haar. Other Germanic languages, such as German and several Dutch dialects including Limburgish and Brabantian, also use different forms depending on the grammatical gender of the object owned. German has sein (with inflected forms like seine) for masculine and ihr (with inflected forms like ihre) for feminine possessors; in German, the "hat" sentences above would be Er hat seinen Hut verloren (He lost his hat) and Sie hat ihren Hut verloren (She lost her hat) respectively. Brabantian also inflects zijn (his) and haar (her) according to the grammatical gender and number of the thing(s) owned.
+
+Some languages have no distinctive possessive determiners and express possession by declining personal pronouns in the genitive or possessive case, or by using possessive suffixes or particles. In Japanese, for example, boku no (a word for I coupled with the genitive particle no), is used for my or mine. In Mandarin Chinese, the possessive determiner and possessive pronoun take the same form as each other: the form associated with wǒ ("I") is wǒ de ("my", "mine"), where de is the possessive particle.
+
+Some languages use the same word for both the possessive determiner and the matching possessive pronoun. For example, in Finnish, meidän can mean either our or ours.
+
+On the other hand, some Micronesian languages such as Pohnpeian have a large number of possessive classifiers that reflect both the possessor and the possessum: nah pwihk means "his (live) pig;" ah pwihk means "his (butchered) pig;" and kene pwihk means "pork; his pig (to eat)." As a further example, tehnweren ohlo war (POSSESSIVECLASS:HONORIFIC-CANOE-n that-man canoe) means "that man's canoe," referring to a person of high status.[12]
+
+Semantics
+For possessive determiners as elsewhere, the genitive does not always indicate strict possession, but rather a general sense of belonging or close identification with. Consider the following examples involving relational nouns:
+
+Forms
+Possessive determiners commonly have similar forms to personal pronouns.  In addition, they have corresponding possessive pronouns, which are also phonetically similar.  The following chart shows the English, German,[13] and French personal pronouns, possessive determiners and possessive pronouns.
+
+References
+Sources

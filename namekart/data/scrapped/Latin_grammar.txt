@@ -1,0 +1,303 @@
+Latin is a heavily inflected language with largely free word order. Nouns are inflected for number and case; pronouns and adjectives (including participles) are inflected for number, case, and gender; and verbs are inflected for person, number, tense, aspect, voice, and mood. The inflections are often changes in the ending of a word, but can be more complicated, especially with verbs.
+
+Thus verbs can take any of over 100 different endings to express different meanings, for example regō "I rule", regor "I am ruled", regere "to rule", regī "to be ruled". Most verbal forms consist of a single word, but some tenses are formed from part of the verb sum "I am" added to a participle; for example, ductus sum "I was led" or ductūrus est "he is going to lead".
+
+Classified things (represented by common nouns) belong to one of three grammatical genders (masculine, feminine, and neuter). The gender of the classified thing is realized by the last syllables of the adjectives, numbers and pronouns that refer to it: e.g. male animals such as hic vir "this man" and hic gallus "this cock", female animals such as haec mulier "this woman" and haec gallīna "this chicken", and either sexually undifferentiated animals such as hoc ovum "this egg" or stuff in general such as hoc "this thing". Specific kinds of stuff and abstract things also have one of the three grammatical genders. There are also two numbers: singular (mulier "woman") and plural (mulierēs "women").
+
+As well as having gender and number, nouns, adjectives, and pronouns have different endings according to their function in the sentence, for example, rēx "the king" (subject), but rēgem "the king" (object). These different endings are called "cases". Most nouns have five cases: nominative (subject), accusative (object), 
+genitive ("of"), dative ("to" or "for"), and ablative ("with" or "in"). Nouns for people (potential addressees) have the vocative (used for addressing someone). Nouns for places have a seventh case, the locative; this is mostly found with the names of towns and cities, e.g. Rōmae "in Rome".
+
+There is no definite or indefinite article in Latin, so that rēx can mean "king", "a king", or "the king" according to context.
+
+Latin word order tends to be subject–object–verb; however, other word orders are common. Different word orders are used to express different shades of emphasis. (See Latin word order.)
+
+An adjective can come either before or after a noun, e.g. vir bonus or bonus vir "a good man", although some kinds of adjectives, such as adjectives of nationality (vir Rōmānus "a Roman man") usually follow the noun.
+
+Latin is a pro-drop language; that is, pronouns in the subject are usually omitted except for emphasis, so for example amās by itself means "you love" without the need to add the pronoun tū "you". Latin also exhibits verb framing in which the path of motion is encoded into the verb rather than shown by a separate word or phrase. For example, the Latin verb exit (a compound of ex and it) means "he/she/it goes out".
+
+In this article a line over a vowel (e.g. ē) indicates that it is long.
+
+Nouns
+Number
+Most Latin nouns have two numbers, singular and plural: rēx "king", rēgēs "kings". A few nouns, called plūrālia tantum ("plural only"), although plural in form, have a singular meaning, e.g. castra "a camp", litterae "a letter", nūptiae "a wedding".
+
+Gender
+Nouns are divided into three genders, known as masculine, feminine, and neuter. The difference is shown in the pronouns and adjectives that refer to them, for example:
+
+To a certain extent, the genders follow the meanings of the words (for example, winds are masculine, tree-names feminine):
+
+Neuter nouns differ from masculine and feminine in two ways: (1) the plural nominative and accusative forms end in -a, e.g. bella "wars", corpora "bodies"; (2) the subject (nominative) and object (accusative) cases are identical.
+
+Case
+Nouns in Latin have a series of different forms, called cases of the noun, which have different functions or meanings. For example, the word for "king" is rēx when it is the subject of a verb, but rēgem when it is the object:
+
+Further cases mean "of" (genitive case), "to/for" (dative case), and "with" (ablative case).
+
+Nouns for people have a separate form used for addressing a person (vocative case). In most nouns for women and girls, the vocative is the same as the nominative.
+
+Some nouns, such as the names of cities and small islands, and the word domus "home", have a seventh case called the locative, for example Rōmae "in Rome" or domī "at home"; however, most nouns do not have this case.
+
+The genitive, dative and ablative cases are called the "oblique" cases.
+
+The order in which the cases are given in grammar books differs in different countries. In Britain and countries influenced by Britain, the order nominative, vocative, accusative is used as in the table below.[1] In the United States, in grammars such as Gildersleeve and Lodge's Latin Grammar (1895), the traditional order is used, with the genitive case in the second place and ablative last. In the popularly used Wheelock's Latin (1956, 7th edition 2011) and Allen and Greenough's New Latin Grammar (1903), however, the vocative is placed at the end.
+
+The following table shows the endings of a typical noun of the 3rd declension.[2] If Gildersleeve and Lodge's order is preferred, click on the symbol "GL" in the seventh column in the table below; for Wheelock's order click on "Wh":
+
+Sometimes the same endings, e.g. -ēs and -ibus, are used for more than one case. Since the function of a word in Latin is shown by ending rather than word order, in theory rēgēs dūcunt could mean either "the kings lead" or "they lead the kings". In practice, however, such ambiguities are rare.
+
+Declensions
+Latin nouns are divided into different groups according to the patterns of their case endings. These different groups are known as declensions. Nouns with -a in the nominative singular, like puella "girl" are known as 1st declension nouns, and so on.
+
+The following table shows the declension of puella "girl" (1st declension), dominus "lord, master" (2nd declension masculine), and bellum "war" (2nd declension neuter):[3]
+
+1st declension nouns are usually feminine, except for a few referring to men, such as agricola "farmer" or poēta "poet". The nouns fīlia "daughter" and dea "goddess" have dative and ablative plural fīliābus, deābus. The locative case ends in -ae, pl. -īs, e.g. Rōmae "in Rome", Athēnīs "in Athens".[4]
+
+2nd declension nouns in -us are usually masculine, but those referring to trees (e.g. pīnus "pine tree") and some place names (e.g. Aegyptus "Egypt") are feminine. A few 2nd declension nouns, such as vir "man" and puer "boy", lack endings in the nominative and vocative singular. In the 2nd declension, the genitive plural in some words is optionally -um, especially in poetry:[5][6] deum or deōrum "of the gods", virum or virōrum "of men".
+
+Neuter nouns such as bellum "war" have -a in the nominative plural. In neuter nouns, the vocative and accusative are always the same as the nominative; the genitive, dative, and ablative are the same as the masculine. Most 2nd declension neuter nouns end in -um but vīrus "poison" and vulgus "crowd" end in -us.
+
+Third declension nouns have various patterns of declension. Some decline like the following: mīles "soldier", urbs "city", corpus "body":[7]
+
+There are some variations, however. A few, such as vīs, vim, vī "force", have accusative singular -im and ablative singular -ī; some, like ignis "fire", optionally have -ī instead of -e in the ablative singular. The genitive plural in some nouns is -um, in others -ium. (For details, see Latin declension.) 3rd declension nouns can be of any gender.
+
+It is not usually possible to guess the genitive of a noun from the nominative: dux "leader" has genitive ducis but rēx "king" has rēgis; pater "father" has genitive patris but iter "journey" has itineris. For this reason the genitive is always given in dictionaries, and can be used to discover the remaining cases.
+
+4th and 5th declension nouns are less common. They decline like the following (manus "hand", genū "knee", diēs "day"):[8]
+
+4th declension nouns are usually masculine, but a few, such as manus "hand" and anus "old lady", are feminine. There are only four 4th declension neuter nouns.
+[9]
+
+5th declension nouns (except for diēs (m) "day") are usually feminine. rēs "thing" is similar to diēs except for a short e in the genitive and dative singular reī.
+
+In addition to the above there are some irregularly declined nouns, mostly borrowed from Greek, such as the name Aenēās "Aeneas" (1st declension masculine).[10]
+
+The vocative is nearly always the same as the nominative, except in 1st and 2nd declension masculine singular words, such as Aenēā! "Aeneas!" and domine! "master!/lord!". Some words, such as deus "god", have no separate vocative, however.
+
+Use of cases
+The nominative case is used for the subject of an active or a passive verb:
+
+It is also used for the complement of a copula verb such as est "he is" or factus est "he became":[11]
+
+The vocative case is used when addressing someone:
+
+The accusative case is used for the object of a sentence:[12]
+
+It is also used as the subject of an infinitival clause dependent on a verb of speaking or the like:
+
+It can be the complement of another word which is itself accusative:
+
+It can also be used with a place name to refer to the destination:
+
+The accusative is also used after various prepositions (especially those that imply motion towards):
+
+Another use of the accusative is to give a length of time or distance:
+
+A genitive noun can represent a kin:
+
+A genitive noun can stand for the object of mental processes such as misereor "I pity" and oblīvīscor "I forget":[13]
+
+A genitive noun attached to a verbal noun can stand for the object of the implied verb (called an "objective genitive"):
+
+A genitive noun can stand for the subject of the implied verb (called a "subjective" genitive):[16]
+
+A frequent type of genitive is the partitive genitive, expressing the quantity of something:[17]
+
+The dative case means "to" or "for". It is frequently used with verbs of saying or giving: 
+
+It can also be used with certain adjectives:
+
+It is also used with certain verbs such as pāreō "I obey" or persuādeō "I persuade":[19]
+
+There are also various idiomatic uses, such as the dative of possession:
+
+The ablative case can mean "with", especially when the noun it refers to is a thing rather than a person:[21]
+
+Often a phrase consisting of a noun plus participle in the ablative can express time or circumstance. This is known as an "ablative absolute":[22]
+
+It is also frequently used with prepositions, especially those meaning "from", "with", "in", or "by":
+
+Another use is in expressions of time and place (except those that give the length of time or distance):
+
+The ablative can also mean "from", especially with place names:[23]
+
+The locative is a rare case used only with names of cities, small islands, and one or two other words such as domus "home". It means "at" or "in":[24]
+
+Adjectives
+Declension of adjectives
+Adjectives, like nouns, have different endings for the different cases, singular and plural. They also differ as to gender, having different forms for masculine, feminine, and neuter. (But masculine and neuter are identical in the genitive, dative, and ablative cases.)
+
+Many adjectives belong to the 1st and 2nd declensions, declining in the same way as the nouns puella, dominus, bellum. An example is the adjective bonus "good" shown below:
+
+Other adjectives belong to the 3rd declension, in which case the masculine and feminine are usually identical. Most 3rd declension adjectives are i-stems, and have ablative singular -ī and genitive plural -ium. An example is ingēns "huge" shown below:
+
+In a very few 3rd declension adjectives such as ācer, ācris, ācre "sharp, keen", the feminine is different from the masculine, but only in the nominative and vocative singular.
+
+A few adjectives (especially comparative adjectives) decline as consonant stems, and have ablative singular -e and genitive plural -um. An example is melior "better":
+
+Participles such as dūcēns "leading" usually have -e in the ablative singular, but -ium in the genitive plural.[27]
+
+There are no adjectives in the 4th or 5th declensions.
+
+The adjectives sōlus "only" and tōtus "the whole of" decline like pronouns, with genitive singular -īus and dative singular -ī:
+
+Agreement of adjectives
+Any adjective that describes or refers to a noun must be in the same case as the noun, as well as the same number and gender. Thus in the phrase below, where rēx is in the vocative singular case, bonus must be in the vocative singular also:
+
+Comparative and superlative adjectives
+Adjectives have positive, comparative and superlative forms. Superlative adjectives are declined according to the first and second declension, but comparative adjectives are third declension.
+
+When used in sentences, a comparative adjective can be used in several ways:
+
+Examples:
+
+The comparative adjective can be used absolutely (i.e. without any overt comparison) or with the comparison made explicit:
+
+Superlative adjectives are most frequently used absolutely, but they can also be used with the genitive omnium "of all":
+
+Detailed information and declension tables can be found at Latin declension.
+
+Pronouns
+Pronouns are of two kinds, personal pronouns and 3rd person pronouns. Personal pronouns decline as follows.
+
+mē, tē, nōs, vōs can also be used reflexively ("I see myself" etc.).[28]
+
+Nōs is frequently used in classical Latin for "I", but vōs is never used in a singular sense.[29]
+
+The genitive nostrum is used partitively (ūnusquisque nostrum "each one of us"), nostrī objectively (memor nostrī "remembering us, mindful of us").[30][28]
+
+3rd person pronouns are those such as hic "this" and ipse "(he) himself". The 3rd person pronouns can also be used adjectivally (except that quid "what?" when adjectival becomes quod). The declension of these pronouns tends to be irregular. They generally have -īus in the genitive singular, and -ī in the dative singular. In a few pronouns (illud "that", istud "that (of yours)", id "it, that", quod "which", quid "anything; what?", aliud "another", aliquid "something") the neuter singular ends in -d.
+
+The declension of ille "that" is as follows:[31]
+
+Ipse "he himself" is very similar, except that the neuter singular ipsum ends in -m instead of -d.
+
+Other very common 3rd person pronouns are hic, haec, hoc "this" and is, ea, id "he, she, it; that". Like other 3rd person pronouns, these can be used either independently (is "he") or adjectivally (is homō "that man"):
+
+Before a vowel, hic and hoc are pronounced as if spelled hicc and hocc. Huius is pronounced as if spelled huiius with a long first syllable.[32]
+
+Also very common is the relative pronoun quī, quae, quod "who, which". The interrogative quis? quid? "who? what?" and indefinite quis, qua, quid "anyone, anything" are similar apart from the nominative singular:[33]
+
+Like adjectives, pronouns must agree in gender, case, and number with the nouns they refer to, as in the following, where hic is masculine agreeing with amor, but haec is feminine, agreeing with patria:
+
+There is no indefinite article or definite article (the, a, an). Sometimes the weak determiner is, ea, id (English "that, this") can serve for the definite article:
+
+Adverbs
+Adverbs modify verbs, adjectives and other adverbs by indicating time, place or manner. Latin adverbs are indeclinable and invariable. Like adjectives, adverbs have positive, comparative and superlative forms.
+
+The positive form of an adverb can often be formed from an adjective by appending the suffix -ē (2nd declension adjectives) or -(t)er (3rd declension adjectives). Thus the adjective clārus, -a, -um, which means "bright", can be contrasted to the adverb clārē, which means "brightly". The adverbial ending -(i)ter is used to form adverbs from 3rd declension adjectives, for example celer "quick", celeriter "quickly". Other endings such as -ō, -e, -tim are also found.
+
+The comparative form of an adverb is the same as the neuter nominative singular form of a comparative adjective and usually ends in -ius. Instead of the adjective clārior, which means "brighter", the adverb is clārius, which means "more brightly".
+
+The superlative adverb has the same base as the superlative adjective and always ends in a long -ē. Instead of the adjective clārissimus, which mean "very bright" or "brightest", the adverb is clārissimē, which means "very brightly" or "most brightly".
+
+Prepositions
+Prepositions
+A prepositional phrase in Latin is made up of a preposition followed by a noun phrase in the accusative or ablative case. The preposition determines the case that is used, with some prepositions allowing different cases depending on the meaning. For example, Latin in takes the accusative case when it indicates motion (English "into") and the ablative case when it indicates position (English "on" or "inside"):
+
+Most prepositions take one case only. For example, all those that mean "from", "by", or "with" take the ablative:
+
+Other prepositions take only the accusative:
+
+Postpositions
+In addition, there are a few postpositions. tenus "as far as" usually follows an ablative, sometimes a genitive plural case:[37]
+
+versus "towards" is usually combined with ad or in:
+
+causā "for the sake of" follows a genitive:
+
+The word cum "with" is usually a preposition, but with the personal pronouns mē, tē, sē, nōbīs, vōbīs "me, you sg., him/herself/themselves, us, you pl." it follows the pronoun and is joined to it in writing:
+
+Both quōcum and cum quō "with whom" are found.
+
+Numerals and numbers
+The first three numbers have masculine, feminine and neuter forms fully declined as follows:[42]
+
+ūnus (one) can also be used in the plural, with plural-only nouns, e.g. ūna castra "one camp", ūnae litterae "one letter". For larger numbers plural-only nouns use special numerals: bīna castra "two camps", trīna castra "three camps". (See Latin numerals.)
+
+The numbers quattuor (four) through decem (ten) are not declined:
+
+The "tens" numbers are also not declined:
+
+The numbers 11 to 17 are formed by affixation of the corresponding digit to the base -decim, hence ūndecim, duodecim, tredecim, quattuordecim, quīndecim, sēdecim, septendecim. The numbers 18 and 19 are formed by subtracting 2 and 1, respectively, from 20: duodēvīgintī and ūndēvīgintī. For the numbers 21 to 27, the digits either follow or are added to 20 by the conjunction et: vīgintī ūnus or ūnus et vīgintī, vīgintī duo or duo et vīgintī etc. The numbers 28 and 29 are again formed by subtraction: duodētrīgintā and ūndētrīgintā. Each group of ten numerals through 100 follows the patterns of the 20s but 98 is nōnāgintā octō and 99 is nōnāgintā novem rather than *duodēcentum and *ūndēcentum respectively.
+
+Compounds ending in 1 2 and 3 are the only ones to decline:
+
+The "hundreds" numbers are the following:
+
+However, 1000 is mille, an indeclinable adjective, but multiples such as duo mīlia (2000) have mīlia as a neuter plural substantive followed by a partitive genitive:
+
+Ordinal numbers are all adjectives with regular first- and second-declension endings. Most are built off of the stems of cardinal numbers (for example, trīcēsimus, -a, -um (30th) from trīgintā (30), sēscentēsimus, -a, -um nōnus, -a, -um (609th) for sēscentī novem (609). However, "first" is prīmus, -a, -um, and "second" is secundus, -a, -um (literally "following" the first; sequi means "to follow").
+
+Verbs
+Persons of the verb
+Each tense has endings corresponding to three persons in the singular, known as 1st person singular ("I"), 2nd person singular ("you sg."), 3rd person singular ("he, she, it"), and three in the plural, known as 1st person plural ("we"), 2nd person plural ("you pl."), and 3rd person plural ("they"). Unlike Ancient Greek, there is no dual number in the Latin verb.
+
+Unlike in Spanish, French, and other Romance languages, there are no respectful 2nd person forms in Latin grammar: the 2nd person singular is used even when addressing a person of high status. However, the 1st person plural is often used to mean "I".[29]
+
+Gender
+Most verbs do not show grammatical gender: the same ending is used whether the subject is "he", "she", or "it". However, when a verb is made periphrastically out of a participle and part of the verb sum "I am", the participle shows gender, for example:
+
+Impersonal verbs, such as nūntiātum est "it was reported", are neuter singular.
+
+Voice
+Latin verbs have two voices, active (e.g. dūcō "I lead") and passive (e.g. dūcor "I am led").
+
+In addition there are a few verbs (e.g. sequor "I follow") which have the endings of passive verbs but with an active meaning, a relic of the older mediopassive voice. These verbs are known as deponent verbs.[43]
+Intransitive verbs such as sum "I am" usually have no passive voice. However, some intransitive verbs can be used in the passive voice, but only when impersonal, e.g. pugnātum est "(a battle) was fought", ventum est "they came" (literally, "it was come").
+
+Mood
+Latin verbs have three moods: indicative, subjunctive, and imperative:[44]
+
+Ordinary statements such as dūcō "I lead" or vēnit "he came" are said to be in the indicative mood. The subjunctive mood (e.g. dūcat "he may lead, he would lead" or dūxisset "he would have led") is used for potential or hypothetical statements, wishes, and also in reported speech and certain types of subordinate clause. The imperative mood (e.g. dūc "lead!") is a command.
+
+In addition Latin verbs have a number of non-finite forms, such as the infinitive and various participles.
+
+Regular and irregular verbs
+Most Latin verbs are regular and follow one of the five patterns below.[45] These are referred to as the 1st, 2nd, 3rd, and 4th conjugation, according to whether the infinitive ends in -āre, -ēre, -ere or -īre.[46] (Verbs like capiō are regarded as variations of the 3rd conjugation, with some forms like those of the 4th conjugation.)
+
+Other verbs like sum "I am" are irregular and have their own pattern.[47]
+
+Compound verbs such as adsum "I am present", nōlō "I don't want", redeō "I go back", etc., usually have the same endings as the simple verbs from which they are made.
+
+Tenses
+Latin verbs have six basic tenses in the indicative mood. Three of these are based on the present stem (e.g. dūc-) and three on the perfect stem (e.g. dūx-).
+
+In addition, there are four tenses in the subjunctive mood, and two in the imperative.
+
+Further tenses can be made periphrastically by combining participles with the verbs sum "I am" or habeō "I have", for example ductūrus eram "I was going to lead" or ductum habeō "I have led".
+
+The following table gives the various forms of a 3rd conjugation verb dūcō. As with other verbs, three different stems are needed to make the various tenses: dūc- in the three non-perfect tenses, dūx- in the three perfect tenses, and duct- in the perfect participle and supine. The perfect and supine stems for any particular verb cannot always be predicted and usually have to be looked up in a dictionary.
+
+A distinction between perfective aspect (I did) and imperfective aspect (I was doing) is found only in the past in Latin. In the present or future, the same tenses have both aspectual meanings.
+
+Unlike in Ancient Greek or modern English, there is no distinction between perfect (I have done) and simple past (I did). The same tense, known in Latin grammar as the perfect tense, has both meanings.
+
+The passive imperative is almost never used except in deponent verbs, e.g. sequere mē! "follow me!"
+
+The different conjugations differ in some tenses. For example, in the future tense:
+
+In the imperfect indicative:
+
+They also differ in the present subjunctive:
+
+The imperfect subjunctive of every verb looks like the infinitive + an ending:
+
+In the various perfect tenses, all verbs have regular endings. However, the stem to which the perfect endings are added cannot always be guessed, and so is given in dictionaries.
+
+Word order
+Latin allows a very flexible word order because of its inflectional syntax. Ordinary prose tended to follow the pattern of subject, direct object, indirect object, adverbial words or phrases, verb (with the proviso that when noun and verb make a compound, as impetum facio "I attack / make an attack" the noun is generally placed close to the verb).[48] Any extra but subordinate verb, such as an infinitive, is placed before the main verb. Adjectives and participles usually directly follow nouns unless they are adjectives of beauty, size, quantity, goodness, or truth, in which case they usually precede the noun being modified. However, departures from these rules are frequent.
+
+Relative clauses are commonly placed after the antecedent that the relative pronoun describes. Since grammatical function in a sentence is based not on word order but on inflection, the usual word order in Latin was often abandoned with no detriment to understanding but with various changes in emphasis.
+
+While these patterns of word order were the most frequent in Classical Latin prose, they were frequently varied. The strongest surviving evidence suggests that the word order of colloquial Latin was mostly Subject-Object-Verb. That can be found in some very conservative Romance languages, such as Sardinian and Sicilian in which the verb is still often placed at the end of the sentence (see Vulgar Latin). On the other hand, subject-verb-object word order was probably also common in ancient Latin conversation, as it is prominent in the Romance languages, which evolved from Latin.[49]
+
+In poetry, however, word order was often changed for the sake of the meter for which vowel quantity (short vowels vs. long vowels and diphthongs) and consonant clusters, not rhyme and word stress, governed the patterns. One must bear in mind that poets in the Roman world wrote primarily for the ear, not the eye; many premiered their work in recitation for an audience. Hence, variations in word order served a rhetorical as well as a metrical purpose; they certainly did not prevent understanding.
+
+In Virgil's Eclogues, for example, he writes, Omnia vincit amor, et nōs cēdāmus amōrī!: "Love conquers all, let us too yield to love!". The words omnia (all), amor (love) and amōrī (to love) are thrown into relief by their unusual position in their respective phrases.
+
+The ending of the common Roman name Mārcus is different in each of the following pairs of examples because of its grammatical usage in each pair. The ordering in the second sentence of each pair would be correct in Latin and clearly understood, whereas in English it is awkward, at best, and meaningless, at worst:
+
+See also
+Bibliography
+References
+External links

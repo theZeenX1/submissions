@@ -1,0 +1,32 @@
+This article lists common abbreviations for grammatical terms that are used in linguistic interlinear glossing of oral languages[nb 1] in English.
+
+The list provides conventional glosses as established by standard inventories of glossing abbreviations such as the Leipzig Glossing rules,[2] the most widely known standard. Synonymous glosses are listed as alternatives for reference purposes. In a few cases, long and short standard forms are listed, intended for texts where that gloss is rare or uncommon.
+
+Conventions
+Lists
+Nonabbreviated English words used as glosses are not included in the list below. Caution is needed with short glosses like AT, BY, TO and UP, which could potentially be either abbreviations or (as in these cases) nonabbreviated English prepositions used as glosses.
+
+Transparent compounds of the glosses below, such as REMPST or REM.PST 'remote past', a compound of REM 'remote' and PST 'past', are not listed separately.
+
+Abbreviations beginning with N- (generalized glossing prefix for non-, in-, un-) are not listed separately unless they have alternative forms that are included. For example, NPST non-past is not listed, as it is composable from N- non- + PST past. This convention is grounded in the Leipzig Glossing Rules.[2] Some authors use a lower-case n, for example nH for 'non-human'.[16]
+
+Some sources are moving from classical lative (LAT, -L) terminology to 'directional' (DIR), with concommitant changes in the abbreviations. Other authors contrast -lative and -directive.[17]
+
+Some sources use alternative abbreviations to distinguish e.g. nominalizer from nominalization,[18] or shorter abbreviations for compounded glosses in synthetic morphemes than for independent glosses in agglutinative morphemes.[19] These are seldom distinct morphosyntactic categories in a language, though some may be distinguished in historical linguistics. They are not distinguished below, as any such usage tends to be idiosyncratic to the author.
+
+Punctuation and numbers
+Grammatical abbreviations
+Lehmann (2004) recommends using privative (PRV) or aversive (AVERS) instead[8]
+
+Kinship
+It is common to abbreviate grammatical morphemes but to translate lexical morphemes. However, kin relations commonly have no precise translation, and in such cases they are often glossed with anthropological abbreviations. Most of these are transparently derived from English; an exception is 'Z' for 'sister'. (In anthropological texts written in other languages, abbreviations from that language will typically be used, though sometimes the single-letter abbreviations of the basic terms listed below are seen.) A set of basic abbreviations is provided for nuclear kin terms (father, mother, brother, sister, husband, wife, son, daughter); additional terms may be used by some authors, but because the concept of e.g. 'aunt' or 'cousin' may be overly general or may differ between communities, sequences of basic terms are often used for greater precision. There are two competing sets of conventions, of one-letter and two-letter abbreviations:[138][139][48][24][140]
+
+These are concatenated, e.g. MFZS = MoFaSiSo 'mother's father's sister's son', yBWF = yBrWiFa 'younger brother's wife's father'. 'Elder/older' and 'younger' may affix the entire string, e.g. oFaBrSo (an older cousin – specifically father's brother's son), MBDy (a younger cousin – specifically mother's brother's daughter) or a specific element, e.g. MFeZS 'mother's father's elder sister's son', HMeB 'husband's mother's elder brother'.
+
+'Gen' indicates the generation relative to the ego, with ∅ for the same (zero) generation. E.g. Gen∅Ch (child of someone in the same generation, i.e. of a sibling or cousin); ♂Gen+1F (female one generation up, i.e. mother or aunt, of a male); Gen−2M (male two generations down, i.e. grandson or grandnephew).
+
+'Cross' and 'parallel' indicate a change or lack of change in gender of siblings in the chain of relations. Parallel aunts and uncles are MoSi and FaBr; cross-aunts and uncles are FaSi and MoBr. Cross-cousins (+Cu) and parallel cousins (∥Cu) are children of the same. Parallel niece and nephew are children of a man's brother or woman's sister; cross-niece and nephew are the opposite. 'Elder' and 'younger' occurs before these markers: o∥Cu, y+Cu, and the gender of the ego comes at the very beginning, e.g. ♂o∥CuF, ♀y+CuM.
+
+Literature
+Notes
+References

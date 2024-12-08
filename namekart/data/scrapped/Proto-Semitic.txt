@@ -1,0 +1,155 @@
+Proto-Semitic is the reconstructed proto-language common ancestor to the Semitic language family. There is no consensus regarding the location of the Proto-Semitic Urheimat: scholars hypothesize that it may have originated in the Levant, the Sahara, the Horn of Africa, the Arabian Peninsula, or northern Africa.[1]
+
+The Semitic language family is considered part of the broader macro-family of Afroasiatic languages.
+
+Dating
+The earliest attestations of any Semitic language are in Akkadian, dating to around the 24th to 23rd centuries BC (see Sargon of Akkad) and the Eblaite language, but earlier evidence of Akkadian comes from personal names in Sumerian texts from the first half of the third millennium BC.[2] One of the earliest known Akkadian inscriptions was found on a bowl at Ur, addressed to the very early pre-Sargonic king Meskiagnunna of Ur (c. 2485–2450 BC) by his queen Gan-saman, who is thought to have been from Akkad.[3]
+The earliest text fragments of West Semitic are snake spells in Egyptian pyramid texts, dated around the mid-third millennium BC.[4][5]
+
+Proto-Semitic itself must have been spoken before the emergence of its daughters, so some time before the earliest attestation of Akkadian, and sufficiently long so for the changes leading from it to Akkadian to have taken place, which would place it in the fourth millennium BC or earlier.[2]
+
+
+
+Urheimat
+Since all modern Semitic languages can be traced back to a common ancestor, Semiticists have placed importance on locating the Urheimat of the Proto-Semitic language.[6] The Urheimat of the Proto-Semitic language may be considered within the context of the larger Afro-Asiatic family to which it belongs.
+
+The previously popular hypothesis of an Arabian Urheimat has been largely abandoned since the region could not have supported massive waves of emigration before the domestication of camels in the 2nd millennium BC.[6]
+
+There is also evidence that Mesopotamia and adjoining areas of modern Syria were originally inhabited by a non-Semitic population. That is suggested by non-Semitic toponyms preserved in Akkadian and Eblaite.
+
+Levant hypothesis
+A Bayesian analysis performed in 2009 suggests an origin for all known Semitic languages in the Levant around 3750 BC, with a later single introduction from South Arabia into the Horn of Africa around 800 BC. This statistical analysis could not, however, estimate when or where the ancestor of all Semitic languages diverged from Afroasiatic.[7] It thus neither contradicts nor confirms the hypothesis that the divergence of ancestral Semitic from Afroasiatic occurred in Africa.
+
+In another variant of the theory, the earliest wave of Semitic speakers entered the Fertile Crescent via the Levant and eventually founded the Akkadian Empire. Their relatives, the Amorites, followed them and settled Syria before 2500 BC.[8] Late Bronze Age collapse in Israel led the South Semites to move southwards where they settled the highlands of Yemen after the 20th century BC until those crossed Bab-el-Mandeb to the Horn of Africa between 1500 and 500 BC.[8]
+
+Phonology
+Vowels
+Proto-Semitic had a simple vowel system, with three qualities *a, *i, *u, and phonemic vowel length, conventionally indicated by a macron: *ā, *ī, *ū.[9] This system is preserved in Classical Arabic.[10]
+
+Consonants
+The reconstruction of Proto-Semitic was originally based primarily on Arabic, whose phonology and morphology (particularly in Classical Arabic) is extremely conservative, and which preserves as contrastive 28 out of the evident 29 consonantal phonemes.[11] Thus, the phonemic inventory of reconstructed Proto-Semitic is very similar to that of Arabic, with only one phoneme fewer in Arabic than in reconstructed Proto-Semitic, with *s and *š merging into Arabic /s/ ⟨س⟩ and *ś becoming Arabic /ʃ/ ⟨ش⟩. As such, Proto-Semitic is generally reconstructed as having the following phonemes (as usually transcribed in Semitology):[12]
+
+*ʼ,ˀ [ʔ]
+
+The reconstructed phonemes *s *z *ṣ *ś *ṣ́ *ṯ̣, which are shown to be phonetically affricates in the table above, may also be interpreted as fricatives (/s z sʼ ɬ ɬʼ θʼ/), as discussed below. This was the traditional reconstruction and is reflected in the choice of signs.
+
+The Proto-Semitic consonant system is based on triads of related voiceless, voiced and "emphatic" consonants. Five such triads are reconstructed in Proto-Semitic:
+
+The probable phonetic realization of most consonants is straightforward and is indicated in the table with the International Phonetic Alphabet (IPA). Two subsets of consonants, however, deserve further comment.
+
+The sounds notated here as "emphatic consonants" occur in nearly all Semitic languages as well as in most other Afroasiatic languages, and they are generally reconstructed as glottalization in Proto-Semitic.[14][15][nb 1] Thus, *ṭ, for example, represents [tʼ]. See below for the fricatives/affricates.
+
+In modern Semitic languages, emphatics are variously realized as pharyngealized (Arabic, Aramaic, Tiberian Hebrew (such as [tˤ]), glottalized (Ethiopian Semitic languages, Modern South Arabian languages, such as [tʼ]), or as tenuis consonants (Turoyo language of Tur Abdin such as [t˭]);[16] Ashkenazi Hebrew and Maltese are exceptions and emphatics merge into plain consonants in various ways under the influence of Indo-European languages (Sicilian for Maltese, various languages for Hebrew).
+
+An emphatic labial *ṗ occurs in some Semitic languages, but it is unclear whether it was a phoneme in Proto-Semitic.
+
+The reconstruction of Proto-Semitic has nine fricative sounds that are reflected usually as sibilants in later languages, but whether all were already sibilants in Proto-Semitic is debated:
+
+The precise sound of the Proto-Semitic fricatives, notably of *š, *ś, *s and *ṣ, remains a perplexing problem, and there are various systems of notation to describe them. The notation given here is traditional and is based on their pronunciation in Hebrew, which has traditionally been extrapolated to Proto-Semitic. The notation *s₁, *s₂, *s₃ is found primarily in the literature on Old South Arabian, but more recently, it has been used by some authors to discuss Proto-Semitic to express a noncommittal view of the pronunciation of the sounds. However, the older transcription remains predominant in most literature, often even among scholars who either disagree with the traditional interpretation or remain noncommittal.[19]
+
+The traditional view, as expressed in the conventional transcription and still maintained by some of the authors in the field[20][21][22] is that *š was a voiceless postalveolar fricative ([ʃ]), *s was a voiceless alveolar sibilant ([s]) and *ś was a voiceless alveolar lateral fricative ([ɬ]). Accordingly, *ṣ is seen as an emphatic version of *s ([sʼ]) *z as a voiced version of it ([z]) and *ṣ́ as an emphatic version of *ś ([ɬʼ]). The reconstruction of *ś ṣ́ as lateral fricatives (or affricates) is certain although few modern languages preserve the sounds. The pronunciation of *ś ṣ́ as [ɬ ɬʼ] is still maintained in the Modern South Arabian languages (such as Mehri), and evidence of a former lateral pronunciation is evident in a number of other languages. For example, Biblical Hebrew baśam was borrowed into Ancient Greek as balsamon (hence English "balsam"), and the 8th-century Arab grammarian Sibawayh explicitly described the Arabic descendant of *ṣ́, now pronounced [dˤ] in the standard pronunciation or [ðˤ] in Bedouin-influenced dialects, as a pharyngealized voiced lateral fricative [ɮˤ].[23][24] (Compare Spanish alcalde, from Andalusian Arabic اَلْقَاضِي al-qāḍī "judge".)
+
+The primary disagreements concern whether the sounds were actually fricatives in Proto-Semitic or whether some were affricates, and whether the sound designated *š was pronounced [ʃ] (or similar) in Proto-Semitic, as the traditional view posits, or had the value of [s]. The issue of the nature of the "emphatic" consonants, discussed above, is partly related (but partly orthogonal) to the issues here as well.
+
+With respect to the traditional view, there are two dimensions of "minimal" and "maximal" modifications made:
+
+Affricates in Proto-Semitic were proposed early on but met little acceptance until the work of Alice Faber (1981),[26] who challenged the older approach. The Semitic languages that have survived often have fricatives for these consonants. However, Ethiopic languages and Modern Hebrew, in many reading traditions, have an affricate for *ṣ.[27]
+
+The evidence for the various affricate interpretations of the sibilants is direct evidence from transcriptions and structural evidence. However, the evidence for the "maximal extension" positions that extend affricate interpretations to non-sibilant "fricatives" is largely structural because of both the relative rarity of the interdentals and lateral obstruents among the attested Semitic language and the even greater rarity of such sounds among the various languages in which Semitic words were transcribed. As a result, even when the sounds were transcribed, the resulting transcriptions may be difficult to interpret clearly.
+
+The narrowest affricate view (only *ṣ was an affricate [t͡sʼ]) is the most accepted one.[28] The affricate pronunciation is directly attested in the modern Ethiopic languages and Modern Hebrew, as mentioned above, but also in ancient transcriptions of numerous Semitic languages in various other languages:
+
+The "maximal affricate" view, applied only to sibilants, also has transcriptional evidence. According to Kogan, the affricate interpretation of Akkadian s z ṣ is generally accepted.[31]
+
+There is also a good deal of internal evidence in early Akkadian for affricate realizations of s z ṣ. Examples are that underlying ||*t, *d, *ṭ + *š|| were realized as ss, which is more natural if the law was phonetically ||*t, *d, *ṭ + *s|| > [tt͡s],[30] and that *s *z *ṣ shift to *š before *t, which is more naturally interpreted as deaffrication.[31]
+
+Evidence for *š as /s/ also exists but is somewhat less clear. It has been suggested that it is cross-linguistically rare for languages with a single sibilant fricative to have [ʃ] as the sound and that [s] is more likely.[34] Similarly, the use of Phoenician 𐤔 *š, as the source of Greek Σ s, seems easiest to explain if the phoneme had the sound of [s] at the time. The occurrence of [ʃ] for *š in a number of separate modern Semitic languages (such as Neo-Aramaic, Modern South Arabian, most Biblical Hebrew reading traditions) and Old Babylonian Akkadian is then suggested to result from a push-type chain shift, and the change from [t͡s] to [s] "pushes" [s] out of the way to [ʃ] in the languages in question, and a merger of the two to [s] occurs in various other languages such as Arabic and Ethiopian Semitic.
+
+On the other hand, Kogan has suggested that the initial merged s in Arabic was actually a "hissing-hushing sibilant",[38] presumably something like [ɕ] (or a "retracted sibilant"), which did not become [s] until later. That would suggest a value closer to [ɕ] (or a "retracted sibilant") or [ʃ] for Proto-Semitic *š since [t͡s] and [s] would almost certainly merge directly to [s]. Furthermore, there is various evidence to suggest that the sound [ʃ] for *š existed while *s was still [ts].[39] Examples are the Southern Old Babylonian form of Akkadian, which evidently had [ʃ] along with [t͡s] as well as Egyptian transcriptions of early Canaanite words in which *š s are rendered as š ṯ. (ṯ is an affricate [t͡ʃ] and the consensus interpretation of š is [ʃ], as in Modern Coptic.[39])
+
+Diem (1974) suggested that the Canaanite sound change of [*θ] Error: {{Transliteration}}: transliteration text not Latin script (pos 1) (help) > *š would be more natural if *š was [s] than if it was [ʃ]. However, Kogan argues that, because *s was [ts] at the time, the change from [*θ] Error: {{Transliteration}}: transliteration text not Latin script (pos 1) (help) to *š is the most likely merger, regardless of the exact pronunciation of *š while the shift was underway.[40]
+
+Evidence for the affricate nature of the non-sibilants is based mostly on internal considerations. Ejective fricatives are quite rare cross-linguistically, and when a language has such sounds, it nearly always has [sʼ] so if *ṣ was actually affricate [tsʼ], it would be extremely unusual if *θ̣ ṣ́ was fricative [θʼ ɬʼ] rather than affricate [t͡θʼ t͡ɬʼ]. According to Rodinson (1981) and Weninger (1998), the Greek placename Mátlia, with tl used to render Ge'ez ḍ (Proto-Semitic *ṣ́), is "clear proof" that this sound was affricated in Ge'ez and quite possibly in Proto-Semitic as well.[41]
+
+The evidence for the most maximal interpretation, with all the interdentals and lateral obstruents being affricates, appears to be mostly structural: the system would be more symmetric if reconstructed that way.
+
+The shift of *š to h occurred in most Semitic languages (other than Akkadian, Minaean, Qatabanian) in grammatical and pronominal morphemes, and it is unclear whether reduction of *š began in a daughter proto-language or in Proto-Semitic itself. Some thus suggest that weakened *š̠ may have been a separate phoneme in Proto-Semitic.[42]
+
+Prosody
+Proto-Semitic is reconstructed as having non-phonemic stress on the third mora counted from the end of the word,[43] i.e. on the second syllable from the end, if it has the structure CVC or CVː (where C is any consonant and V is any vowel), or on the third syllable from the end, if the second one had the structure CV.[44]
+
+Morphophonology
+Proto-Semitic allowed only syllables of the structures CVC, CVː, or CV. It did not permit word-final clusters of two or more consonants, clusters of three or more consonants, hiatus of two or more vowels, or long vowels in closed syllables.[45]
+
+Most roots consisted of three consonants. However, it appears that historically the three-consonant roots had developed from two-consonant ones (this is suggested by evidence from internal as well as external reconstruction). To construct a given grammatical form, certain vowels were inserted between the consonants of the root.[46][47] There were certain restrictions on the structure of the root: it was impossible to have roots where the first and second consonants were identical, and roots where the first and third consonants were identical were extremely rare.[48]
+
+Grammar
+Nouns
+Three cases are reconstructed: nominative (marked by *-u), genitive (marked by *-i), accusative (marked by *-a).[49][50]
+
+There were two genders: masculine (marked by a zero morpheme) and feminine (marked by *-at/*-t and *-ah/-ā).[51][52] The feminine marker was placed after the root, but before the ending, e.g.: *ba‘l- ‘lord, master’ > *ba‘lat- ‘lady, mistress’, *bin- ‘son’ > *bint- ‘daughter’.[53] There was also a small group of feminine nouns that didn't have formal markers: *’imm- ‘mother’, *laxir- ‘ewe’, *’atān- ‘she-donkey’, *‘ayn- ‘eye’, *birk- ‘knee’[54]
+
+There were three numbers: singular, plural and dual (only in nouns[contradictory]).[52]
+
+There were two ways to mark the plural:[55]
+
+The dual was formed by means of the markers *-ā in the nominative and *-āy in the genitive and accusative.[56]
+
+The endings of the noun:[57]
+
+Pronouns
+Like most of its daughter languages, Proto-Semitic has one free pronoun set, and case-marked bound sets of enclitic pronouns. Genitive case and accusative case are only distinguished in the first person.[58]
+
+For many pronouns, the final vowel is reconstructed with long and short positional variants; this is conventionally indicated by a combined macron and breve on the vowel (e.g. ā̆).
+
+The Semitic demonstrative pronouns are usually divided into two series: those showing a relatively close object and those showing a more distant one.[59] Nonetheless, it is very difficult to reconstruct Proto-Semitic forms on the basis of the demonstratives of the individual Semitic languages.[60]
+
+A series of interrogative pronouns are reconstructed for Proto-Semitic: *man ‘who’, *mā ‘what’ and *’ayyu ‘of what kind’ (derived from *’ay ‘where’).[61][62][63]
+
+Numerals
+Reconstruction of the cardinal numerals from one to ten (masculine):[64][65][66]
+
+All nouns from one to ten were declined as singular nouns with the exception of the numeral ‘two’, which was declined as a dual. Feminine forms of all numbers from one to ten were produced by the suffix *-at. In addition, if the name of the object counted was of the feminine gender, the numbers from 3 to 10 were in the masculine form and vice versa.[67]
+
+The names of the numerals from 11 to 19 were formed by combining the names of the unit digits with the word ‘ten’. 'Twenty’ was expressed by the dual form of ‘ten’, and the names of the ten digits from 30 to 90 were plural forms of the corresponding unit digits. Proto-Semitic also had designations for hundred (*mi’t-), thousand (*li’m-) and ten thousand (*ribb-).[68][65]
+
+Ordinal numerals cannot be reconstructed for the protolanguage because of the great diversity in the descendant languages.[66]
+
+Verbs
+Traditionally, two conjugations are reconstructed for Proto-Semitic — a prefix conjugation and a suffix conjugation.[69] According to a hypothesis that has garnered wide support, the prefix conjugation was used with verbs that expressed actions, and the suffix conjugation was used with verbs that expressed states.[70]
+
+The prefix conjugation is reconstructed as follows:[71][72]
+
+The suffix conjugation is reconstructed as follows:[73]
+
+Verb stems are divided into base forms (a "G-stem",[74] from German: Grundstamm) and derived. The bases consist of a three-consonant root with thematic vowels. Among the derived ones, one distinguishes stems with a geminated middle consonant (German: Doppelungsstamm), stems with a lengthened first vowel, causative stems (formed by means of the prefix *ša-), nouns with the prefix *na-/*ni-, stems with the suffix *-tV-, stems that consist of a reduplicated biconsonantal root and stems with a geminated final consonant.[75][76][77]
+
+From the basic stems, an active participle was formed on the pattern CāCiC, the passive one on the patterns CaCīC and CaCūC.[78]
+
+From the derived stems, the participles were formed by means of the prefix *mu-, while the vocalisation of the active ones was a-i and that of the passive ones was a-a[79] (on this pattern, for example, the Arabic name muḥammad is formed from the root ḥmd ‘to praise’.[80])
+
+The imperative mood was formed only for the second person, and the form for the singular masculine was the pure stem:[81]
+
+Conjunctions
+Three conjunctions are reconstructed for Proto-Semitic:[82]
+
+Syntax
+The Proto-Semitic language was a language of nominative-accusative alignment, which is preserved in most of its descendant languages.[83]
+
+The basic word order of Proto-Semitic was VSO (verb — subject — direct object), and the modifier usually followed its head.[84][66]
+
+Lexis
+Reconstruction of the Proto-Semitic lexicon provides more information about the lives of Proto-Semites and helps in the search for their Urheimat.
+
+Reconstructed terms include: 
+
+The words *ṯawr- ‘buffalo’ and *ḳarn- ‘horn’ are suspected to be borrowings from Proto-Indo-European[85] or vice versa (for *ṯawr- and certain other words).[87] Sergei Starostin adduces several dozens of Semito-Indo-European correspondences, which he considers to be borrowings into Proto-Semitic from Proto-Anatolian or a disappeared branch of Proto-Indo-European.[88]
+
+Comparative vocabulary and reconstructed roots
+See List of Proto-Semitic stems (appendix in Wiktionary).
+
+See also
+Notes
+References
+Sources
+External links

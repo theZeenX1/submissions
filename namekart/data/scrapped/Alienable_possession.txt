@@ -1,0 +1,928 @@
+In linguistics, inalienable possession[1] (abbreviated INAL) is a type of possession  in which a noun is obligatorily possessed by its possessor. Nouns or nominal affixes in an inalienable possession relationship cannot exist independently or be "alienated" from their possessor.[2]  Inalienable nouns include body parts (such as leg, which is necessarily "someone's leg" even if it is severed from the body), kinship terms (such as mother), and part-whole relations (such as top).[3] Many languages reflect the distinction but vary in how they mark inalienable possession.[4] Cross-linguistically, inalienability correlates with many morphological, syntactic, and semantic properties.
+
+In general, the alienable–inalienable distinction is an example of a binary possessive class system in which a language distinguishes two kinds of possession (alienable and inalienable). The alienability distinction is the most common kind of binary possessive class system, but it is not the only one.[4] Some languages have more than two possessive classes. In Papua New Guinea, for example, Anêm has at least 20 classes, and Amele has 32.[5][4]
+
+Statistically, 15–20% of the world's languages have obligatory possession.[6]
+
+Comparison to alienable possession
+With inalienable possession, the two entities have a permanent association in which the possessed has little control over their possessor.[7] For instance, body parts (under normal circumstances) do not change and cannot be removed from their possessor. The following real-world relationships often fall under inalienable possession:[3]
+
+Alienable possession, on the other hand, has a less permanent association between the two entities.[7] For instance, most objects may or may not be possessed. When such types of objects are possessed, the possession is alienable. Alienable possession is used generally for tangible items that one might cease to own at some point (such as my money), but inalienable possession generally refers to a perpetual relationship that cannot be readily severed (such as my mother or my arm).[3]
+
+The table above outlines some common inalienable relationships, but it is important to note that they are just the most common types of inalienable nouns. Languages with an alienable/inalienable possession distinction differ in which classes fall under each type of possession. However, if a language has such a distinction, kinship roles or body parts (or both) make up some of the entities that are inalienably possessed.[8] Also, languages may make different distinctions within the categories on how many and which entities are treated as inalienable.[8]
+
+Moreover, some languages allow the same noun to be either alienable or inalienable.[7] Thus, trying to determine if a noun is alienable or inalienable based on its meaning or its affiliation to a specific noun category (for instance, body parts) can be difficult.[9]
+
+Variation by languages
+Although the relationships listed above are likely to be instances of inalienable possession, those that are ultimately classified as inalienable depend on conventions that are specific by language and culture.[10] It is impossible to say that a particular relationship is an example of inalienable possession without specifying the languages for which that holds true. For example, neighbor may be an inalienable noun in one language but alienable in another.[10] Additionally, in some languages, one entity can be both alienably possessed and inalienably possessed, and its type of possession is influenced by other properties of the sentence.[7] Thus, whether a certain type of relationship is described as alienable or inalienable can be arbitrary. In that respect, alienability is similar to other types of noun classes such as grammatical gender.[11]
+
+The examples below illustrate that the same phrase, the table's legs, is regarded as inalienable possession in Italian but alienable possession in French:[12] (1b) is ungrammatical (as indicated by the asterisk). French cannot use the inalienable possession construction for a relationship that is alienable.
+
+Al
+to.the
+tavolo,
+table
+qualcuno
+someone
+gli
+it.DAT
+ha
+has
+segato
+sawn
+tutte
+all
+le
+the
+gambe
+legs
+Al tavolo, qualcuno gli ha segato tutte le gambe
+to.the table someone it.DAT has sawn all the legs
+'The table, someone has sawn off all its legs'
+*
+ 
+La
+the
+table,
+table,
+quelqu'un
+someone
+lui
+it.DAT
+a
+has
+scié
+sawn
+toutes
+all
+les
+the
+pattes
+legs
+* La table, quelqu'un lui a scié toutes les pattes
+{} the table, someone it.DAT has sawn all the legs
+'The table, someone has sawn off all its legs'
+(Cinque & Krapova 2008: 68 (ia, ib)[a]))
+Bernd Heine argues that language change is responsible for the observed cross-linguistic variation in the categorization of (in)alienable nouns. He states that "rather than being a semantically defined category, inalienability is more likely to constitute a morphosyntactic or morphophonological entity, one that owes its existence to the fact that certain nouns happened to be left out when a new pattern for marking attributive possession arose."[13] He considers that nouns that are "ignored" by a new marking pattern come to form a separate noun class.
+
+Morphosyntactic strategies for marking distinction
+The distinction between alienable and inalienable possession is often marked by various morphosyntactic properties such as morphological markers and word order. The morphosyntactic differences are often referred to as possession split or split possession, which refer to instances of a language making a grammatical distinction between different types of possession.[14] In a language with possession split, grammatical constructions with alienable nouns will differ from constructions with inalienable nouns.
+
+There is a strong typological pattern for inalienable possession to require fewer morphological markers than alienable possession constructions.[15]
+
+Inalienable possession constructions involve two nouns or nominals: the possessor and the possessee. Together, they form a unit, the determiner phrase (DP), in which the possessor nominal may occur either before the possessee (prenominal) or after its possessee (postnominal), depending on the language.[16] French, for example, can use a postnominal possessor (the possessor (of) Jean occurs after the possessee the arm):
+
+le
+the
+bras
+arm
+de
+of
+Jean
+Jean
+le bras de Jean
+the arm of Jean
+'John's arm'
+(Guéron 2007: 590 (la))
+le
+the
+frère
+brother
+de
+of
+Jean
+Jean
+le frère de Jean
+the brother of Jean
+'John's brother'
+le
+the
+livre
+book
+de
+of
+Jean
+Jean
+le livre de Jean
+the book of Jean
+'John's book'
+In contrast, English generally uses a prenominal possessor (John's brother). However, in some situations, it may also use a postnominal possessor, as in the brother of John.[4]
+
+Morphological markers
+The South American language Dâw uses a special possessive morpheme (bold in the examples below) to indicate alienable possession.[17] The possessive morpheme ɛ̃̀ɟ in examples (3a) and (3b) indicates an alienable relationship between the possessor and the possessee.
+
+tɔp
+house
+Tũk-ɛ̃̀ɟ
+Tũk-POSS
+tɔp Tũk-ɛ̃̀ɟ
+house Tũk-POSS
+'Tũk's house'
+tih-ɛ̃̀ɟ
+3SG-POSS
+cɤ̀g
+arrow
+tih-ɛ̃̀ɟ cɤ̀g
+3SG-POSS arrow
+'his arrow'
+(Martins 2004: 546)
+The possessive marker does not occur in inalienable possession constructions. Thus, the absence of ɛ̃̀ɟ, as in example (4), indicates that the relationship between the possessor and the possessee is inalienable possession.
+
+tih
+3SG
+nũh
+head
+tih nũh
+3SG head
+‘his head'
+(Martins 2004: 547)
+In Igbo, a West African language, the possessor is deleted in a sentence if both its subject and the possessor of an inalienable noun refer to the same entity.[18]: 87  In (5a), both referents are the same, but it is ungrammatical to keep both of them in a sentence. Igbo uses the processes of identical possessor deletion, and the yá (his), is dropped, as in the grammatical (5b).
+
+*
+ 
+Ó
+Hei
+sàra
+washed
+áka
+hands
+yá
+hisi (own)
+* Ó sàra áka yá
+{} Hei washed hands {hisi (own)}
+'Hei washed hisi hands'
+Ó
+He
+sàra
+washed
+áka
+hands
+Ó sàra áka
+He washed hands
+'Hei washed hisi hands'
+(Hyman et al. 1970: 87 (11, 12))
+A similar process occurs in some Slavic languages, notably Serbian:
+
+*
+ 
+Oprao
+Washed
+je
+hei.is
+svoje
+hisi (own)
+ruke
+hands
+* Oprao je svoje ruke
+{} Washed hei.is {hisi (own)} hands
+'Hei washed hisi hands'
+Oprao
+Washed
+je
+he.is
+ruke
+hands
+Oprao je ruke
+Washed he.is hands
+'Hei washed hisi hands'
+Word order
+The distinction between alienable and inalienable possession constructions may be marked by a difference in word order. Igbo uses another syntactic process when the subject and the possessor refer to different entities.[18]: 89  In possessor switch, the possessor of the inalienable noun is placed as close as possible to the verb.[18] In the following examples, the possessor yá is not deleted because both referents are different:
+
+*
+ 
+Ó
+He
+hùru
+saw
+áka
+hand
+* Ó hùru áka
+{} He saw hand
+'Hei saw hisj hand'
+Ó
+He
+hùru
+saw
+áka
+hand
+yá
+his
+Ó hùru áka yá
+He saw hand his
+'Hei saw hisj hand'
+(Hyman et al. 1970: 87 (27, 28))
+In the ungrammatical (8a), the verb wàra (to split) follows the possessor m. Possessor switch requires the verb to be placed nearer to the possessor. The grammatical (8b) does so switching wàra with the possessor:
+
+*
+ 
+ísi
+Head
+m
+my
+wàra
+split
+* ísi m wàra
+{} Head my split
+'I have a headache'
+ísi
+Head
+wàra
+split
+m
+to me
+ísi wàra m
+Head split {to me}
+'I have a headache'
+(Hyman et al. 1970: 87 (44, 45))
+The Maybrat languages in New Guinea vary the order of the genitive case and the noun between alienable and inalienable constructions:[19][20]
+
+In (9), the genitive Sely precedes the possessee me, marking inalienable possession.
+
+Sely
+Sely
+m-me
+3SG.F.POSS-mother
+Sely m-me
+Sely 3SG.F.POSS-mother
+'Sely's mother'
+(Dol 1999: 93)
+However, the genitive follows the possessee in alienable possession constructions, such as (10) whose genitive Petrus follows the possessee amah.
+
+amah
+house
+ro-Petrus
+GEN-Petrus
+amah ro-Petrus
+house GEN-Petrus
+‘Petrus' house'
+(Dol 1999: 97)
+Possessor marking
+Another way for languages to distinguish between alienable and inalienable possession is to have one noun class that cannot appear without an explicit possessor.[21] For example, Ojibwe, an Algonquian language, has a class of nouns that must have explicit possessors.[22][23][b]
+
+If explicit possessors are absent (as in (11b) and (12b)), the phrase is ungrammatical. In (11), the possessor ni is necessary for the inalienable noun nik (arm). In (12), the same phenomenon is found with the inalienable noun ookmis (grandmother), which requires the possessor morpheme n to be grammatical.
+
+ni
+POSS
+nik
+arm
+ni nik
+POSS arm
+'my arm'
+*
+ 
+nik
+arm
+* nik
+{} arm
+'(an) arm'
+(Nichols & Nyholm 1995: 138)
+nookmis
+POSS-grandmother
+nookmis
+POSS-grandmother
+'my grandmother'
+*
+ 
+ookmis
+grandmother
+* ookmis
+{} grandmother
+'(a) grandmother'
+(Nichols & Nyholm 1995: 189)
+Hawaiian uses different prepositions to mark possession, depending on the noun's alienability: a (alienable of) is used to indicate alienable possession as in (13a), and o (inalienable of) indicates inalienable possession as in (13b).[24]
+
+nā
+the
+iwi
+bones
+a
+of
+Pua
+Pua
+nā iwi a Pua
+the bones of Pua
+'Pua's bones' [as in the chicken bones she is eating]
+nā
+the
+iwi
+bones
+o
+of
+Pua
+Pua
+nā iwi o Pua
+the bones of Pua
+'Pua's [own] bones'
+(Elbert & Pukui 1979: 139)
+However, the distinction between a (alienable of) and o (inalienable of) is used for other semantic distinctions that are less clearly attributable to common alienability relationships except metaphorically. Although lei is a tangible object, but in Hawaiian, it can be either alienable (15a) or inalienable (15b), depending on the context.
+
+ke
+the
+kanaka
+man
+a
+of
+ke
+the
+aliʻi
+king
+ke kanaka a ke aliʻi
+the man of the king
+'the subject [controlled or appointed by] the chief'
+ke
+the
+kanaka
+man
+o
+of
+ke
+the
+aliʻi
+king
+ke kanaka o ke aliʻi
+the man of the king
+'the [hereditary] subject of the chief' (Elbert & Pukui 1979: 139)
+ka
+the
+lei
+lei
+a
+of
+Pua
+Pua
+ka lei a Pua
+the lei of Pua
+'Pua's lei [to sell]'
+ka
+the
+lei
+lei
+o
+of
+Pua
+Pua
+ka lei o Pua
+the lei of Pua
+'Pua's lei [to wear]' (Elbert & Pukui 1979: 139)
+Subtler cases of syntactic patterns sensitive to alienability are found in many languages. For example, French can use a definite article, rather than the possessive, for body parts.[25]
+
+Il
+he
+lève
+raises
+les
+the
+mains.
+hands
+Il lève les mains.
+he raises the hands
+'He raises his hands.'
+(Nakamoto 2010: 75 (2a))
+Using the definite article with body parts, as in the example above, creates ambiguity. Thus, the sentence has both an alienable and an inalienable interpretation:
+
+Such an ambiguity also occurs in English with body-part constructions.[26]
+
+Spanish also uses a definite article (el, los, la, or las) to indicate inalienable possession for body parts.[27]
+
+Él
+he
+se
+himself
+lava
+washes
+las
+the
+manos.
+hands
+Él se lava las manos.
+he himself washes the hands
+'He washes his hands.'
+(Kockelman 2009: 30)
+German uses a definite article (die) for inalienable body parts but a possessive (meine) for alienable possession.[27]
+
+Er
+he
+wäscht
+washes
+sich
+REFL
+die
+the
+Hände.
+hands
+Er wäscht sich die Hände.
+he washes REFL the hands
+'He is washing his hands.'
+(Kockelman 2009: 29)
+Ich
+I
+zerriss
+tore
+meine
+my
+Hose.
+pants
+Ich zerriss meine Hose.
+I tore my pants
+'I tore my pants.'
+(Kockelman 2009: 30)
+Although English has alienable and inalienable nouns (Mary's brother [inalienable] vs. Mary's squirrel [alienable]), it has few such formal distinctions in its grammar.[28] One subtle grammatical distinction is the postnominal genitive construction, which is normally reserved for inalienable relational nouns. For example, the brother of Mary [inalienable] is normal, but *the squirrel of Mary [alienable] would be awkward.[28]
+
+Since the alienability distinction is rooted in semantics, languages like English with few morphological or syntactic distinctions sensitive to alienability can have ambiguities occur. For example, the phrase she has her father's eyes has two different meanings:
+
+Another example in semantic dependency is the difference between possible interpretations in a language that marks inalienable possession (such as French) with a language that does not mark it (such as English). Inalienable possession is semantically dependent and is defined in reference to another object to which it belongs.[26] Sentence (20) is ambiguous and has two possible meanings. In the inalienable possessive interpretation, la main belongs to the subject, les enfants. The second interpretation is that la main is an alienable object and does not belong to the subject. The English equivalent of the sentence (The children raised the hand) has only the alienable possessive reading in which the hand does not belong to the children.
+
+Les
+The
+enfants
+children
+ont
+have
+levé
+raised
+la
+the
+main
+hand
+Les enfants ont levé la main
+The children have raised the hand
+'The children raised the hand' (Vergnaud and Zubizarreta 1992: 596 (1))
+Syntactically, Noam Chomsky proposed that some genitive or possessive cases originate as part of the determiner in the underlying structure.[29]: 680  The inalienable possessives are derived from a different deep structure than that of alienable possession. An example is interpretations of the phrase John's arm:
+
+In the inalienable reading, arm is a complement of the determiner phrase. That contrasts to the alienable reading in which John has an arm is part of the determiner.[29]: 690  Charles J. Fillmore and Chomsky make a syntactic distinction between alienable and inalienable possession and suggest that the distinction is relevant to English.[29]
+
+In contrast, others have argued that semantics plays a role in inalienable possession, but it is not central to the syntactic class of case-derived possessives. An example is the difference between the book's contents and the book's jacket. A book cannot be divorced from its contents, but it can be removed from its jacket.[29]: 690  Still, both phrases have the same syntactic structure. Another example is Mary's mother and Mary's friend. The mother will always be Mary's mother, but an individual might not always be Mary's friend. Again, both have the same syntactic structure.
+
+The distinction between alienable and inalienable possessions can be influenced by cognitive factors.[3] Languages such as English that do not encode the alienability distinction in their grammar rely on the real-world relationship between the possessed noun and possessor noun. Nouns that are "inherently relational" and whose possession is associated with a single dominant interpretation (mother) are of the inalienable type, and nouns whose possession is open to interpretation (car) are of the alienable type.[3]
+
+Interaction with coreference
+There are few grammatical distinctions between alienable and inalienable possession in English, but there are differences in the way coreference occurs for such possessive constructions. For instance, examples (21a) and (21b) have interpretations that differ by the type of (in)alienable possession:
+
+In example (1a), the pronominal possessor (her) can refer to Lucy or to another possessor not mentioned in the sentence. As such, two interpretations of the sentence are possible: 
+
+However, in example (21b), the pronominal possessor (her) can only grammatically refer to Lucy. As such, the hand being discussed must belong to Lucy.
+
+Therefore, the pronominal possessor patterns with pronominal binding in the alienable construction, but the pronominal possessor patterns with anaphoric binding in the inalienable construction.[30] In anaphoric binding, an anaphor requires a coreferent antecedent that c-commands the anaphor and that is in the domain of the anaphor.[31] For example (1b) to obey those conditions, the pronominal possessor must refer to Lucy, not to another possessor that is not mentioned in the sentence. Thus, by having only one grammatical interpretation, (1b) is consistent with anaphoric binding. On the other hand, the interpretation of alienable constructions such as 1a can be ambiguous since it is not restricted by the same properties of anaphoric binding.
+
+Cross-linguistic properties
+Although there are different methods of marking inalienability, inalienable possession constructions usually involve the following features:[10]
+
+(Heine 1997: 85-86 (1-6))
+
+Restricted to attributive possession
+Alienability can be expressed only in attributive possession constructions, not in predicative possession.[10]
+
+Attributive possession is a type of possession in which the possessor and possessee form a phrase. That contrasts to predicative possession constructions in which the possessor and possessee are part of a clause, and the verb affirms the possessive relationship.[33] The examples in (22) express the same alienable relationship between possessor and possessee but illustrate the difference between attributive and predicative possession:
+
+Requires fewer morphological features
+If a language has separate alienable and inalienable possession constructions, and one of the constructions is overtly marked and the other is "zero-marked", the marked form tends to be alienable possession. Inalienable possession is indicated by the absence of the overt marker.[34] An example is the data from Dâw.
+
+One typological study showed that in 78% of South American languages that distinguish between inalienable and alienable possession, inalienable possession was associated with fewer morphological markers than was its alienable counterpart. By contrast, only one of the surveyed languages required more morphological features to mark inalienable possession than alienable possession.[15] If a language makes a grammatical distinction between alienable and inalienable nouns, having an overt possessive marker to mark inalienability is redundant. After all, by being inalienable, a noun must be possessed.
+
+Tighter structural bond between possessor and possessee
+In inalienable possession constructions, the relationship between the possessor and possessee is stronger than in alienable possession constructions. Johanna Nichols characterizes that by the tendency of inalienable possession to be head-marked but alienable possession to be dependent-marked.[32] In head-marking, the head of an inalienable possession construction (the possessed noun) is marked, but in dependent-marking, the dependent (the possessor noun) is marked.[35]
+
+Theories of representation in syntax
+Since the possessor is crucially linked to an inalienable noun's meaning, inalienable nouns are assumed to take their possessors as a semantic argument.[30] Possessors to alienable and inalienable nouns can be expressed with different constructions. Possessors in the genitive case like the friend of Mary appear as complements to the possessed noun, as part of the phrase headed by the inalienable noun.[26] That is an example of internal possession since the possessor of the noun is inside the determiner phrase.
+
+External possession
+Inalienable possession can also be marked with external possession. Such constructions have the possessor appearing outside the determiner phrase. For example, the possessor may appear as a dative complement of the verb.
+
+French exhibits both external possessor construction and internal possessor construction, as in (23):[26]
+
+Le
+the
+médecin
+doctor
+leur
+to them
+a examiné
+examined
+la
+SG.DEF.DET
+gorge.
+throat
+Le médecin leur {a examiné} la gorge.
+the doctor {to them} examined SG.DEF.DET throat
+'The doctor examined their throats.'
+Le
+the
+médecin
+doctor
+a examiné
+examined
+leurs
+POSS(3PL)
+gorges.
+throat
+Le médecin {a examiné} leurs gorges.
+the doctor examined POSS(3PL) throat
+'The doctor examined their throats.'
+(Vergnaud and Zubizarreta 1992: 596 (4b, 6b))
+However, those types of possessors are problematic. There is a discrepancy between the possessor appearing syntactically in an inalienable possession construction and what its semantic relationship to the inalienable noun seems to be. Semantically, the possessor of an inalienable noun is intrinsic to its meaning and acts like a semantic argument. On the surface syntactic structure, however, the possessor appears in a position that marks it as an argument of the verb.[16] Thus, there are different views on how those types of inalienable possession constructions should be represented in the syntactic structure. The binding hypothesis argues that the possessor is an argument of the verb. Conversely, the possessor-raising hypothesis argues that the possessor originates as an argument of the possessed noun and then moves to a position in which on the surface, it looks like an argument of the verb.[36]
+
+The binding hypothesis reconciles the fact that the possessor appears both as a syntactic and semantic argument of the verb but as a semantic argument of the possessed noun. It assumes that inalienable possession constructions are subject to the following syntactic constraints:[16]
+
+It is assumed that inalienable possession constructions are one form of anaphoric binding: obligatory control.[30] Thus, the possessor DP originates in the specifier of the verb; the fact that the possessor seems to be a semantic argument of the noun arises from the binding relationship between the possessor and the possessee DPs. The parallel between inalienable possession constructions and obligatory control can be seen in the examples below:[25]
+
+Jeani
+Jean
+lève
+raise
+lai
+the
+main
+hand
+Jeani lève lai main
+Jean raise the hand
+'Jean raises his hand.'
+Jeani
+Jean
+veut
+want
+PROi
+(Jean)
+partir
+to leave
+Jeani veut PROi partir
+Jean want (Jean) {to leave}
+'Jean wants to leave'
+(Nakamoto 2010: 80 (30a,b))
+The hypothesis accounts for differences between French and English, and it may also eliminate the ambiguity created by definite determiners.[30] According to the hypothesis, anaphoric binding in inalienable possession constructions relates to the theta-features that a language assigns to its determiners.[16] The hypothesis predicts that inalienable possession constructions exist in languages that assign variable theta-features to its determiners and that inalienable possession constructions do not exist in languages that lack variable theta-feature assignment.[16] Therefore, inalienable possession is predicted to exist in Romance languages and also Russian but not in English or Hebrew.[16] In the French sentence Il lève les mains, the determiner les is assigned theta-features. Thus, it is understood as inalienable possession. However, in the English translation, the determiner the does not have theta-features since English is considered not to assign theta-features to its determiners. Therefore, the does not necessarily signify inalienable possession and so ambiguity surfaces.
+
+That hypothesis, however, does not account for verbs allowing reflexive anaphora (Jean se lave 'Jean washes himself').[16]  To account for the grammaticality of such verbs, Guéron proposes that in an inalienable construction the POSS DP (possessor DP) and BP DP (body part DP) constitute two links of a lexical chain, in addition to their anaphoric relation.[16] The two links of a lexical chain must obey the same constraints as anaphora, which accounts for the locality restrictions on inalienable construals. Every chain is then associated with one theta-role. Inalienable possession surfaces as ungrammatical when the possessed DP and the possessor DP are assigned two different theta-roles by the verb. That explains why sentence (25b) is ungrammatical. The POSS DP is assigned an agent theta-role, and the BP DP is assigned a theme theta-role.
+
+Jean
+Jean
+lève
+raise
+la
+the
+main
+hand
+Jean lève la main
+Jean raise the hand
+'Jean raises his hand.'
+Jean lave/gratte/chatouille
+Jean wash/scratch/tickle
+AGENT
+la main.
+the hand
+THEME
+{Jean lave/gratte/chatouille} {la main.}
+{Jean wash/scratch/tickle} {the hand}
+AGENT THEME
+'Jean washes/scratches/tickles the hand.'
+(Guéron 2007: 598 (40, 42))
+Possessor-raising is a syntactic hypothesis that attempts to explain the structures of inalienable DPs. Landau argues that the possessor is initially introduced in the specifier position of DP (Spec-DP), but it later raises to the specifier of the VP. The possessor DP gets its theta-role from the head D, which gives rise to the meaning that the possessor is related to the possessee.[37]
+
+Landau's analysis is made on the basis of several properties possessives in the data case in Romance languages.[25]
+
+The French data below illustrate how the analysis is thought to work. The possessor lui originates in the specifier of DP as an argument of the noun figure. That is equivalent to an underlying structure Gilles a lavé lui la figure. The possessor raises to the specifier of VP, which is seen in the surface structure Gilles lui a lavé la figure.
+
+Gilles
+Gilles
+[TP Gilles
+lui
+him.DAT
+[VP luii
+a lavé
+washed
+a lavé
+la figure
+the face
+[DP ti la figure]]]
+Gilles lui {a lavé} {la figure}
+Gilles him.DAT washed {the face}
+[{TP Gilles} {[VP luii} {a lavé} {[DP ti la figure]]]}
+'Gilles washed his face'
+(Guéron 2007: 611 (100b))
+According to Guéron, a benefit of the hypothesis is that it is consistent with principles of syntactic movement such as locality of selection and c-command. If the position to which it must move is already filled, as with a transitive verb like see, the possessor cannot raise, and the sentence is correctly predicted to be ungrammatical.[16]
+
+*
+ 
+ 
+ 
+Gil
+Gil
+[TP Gilj
+NOM
+ra'a
+saw
+[VP tj ra'a
+ 
+le-Rina
+to Rina
+[DP le-Rina
+*DAT
+et
+the
+et
+ 
+ha-panim
+face
+ha panim]]]
+ACC
+* Gil ra'a le-Rina et ha-panim
+{} Gil saw {to Rina} the face
+{} {[TP Gilj} {[VP tj ra'a} {[DP le-Rina} et {ha panim]]]}
+{} NOM {} *DAT {} ACC
+'Gil saw Rina's face'
+(Guéron 2007: 613 (109))
+However, some languages like Russian do not have to raise the DP possessor and can leave it in situ and so it is unclear why the possessor would ever have to raise.[16] Possessor-raising also violates a constraint on syntactic movement, the specificity constraint: an element cannot be moved out of a DP if that DP is specific.[16] In (23), the DP lui is specific, but possessor-raising predicts it can be moved out of the larger DP lui la figure. Such movement is excluded by the specificity constraint.
+
+Possessor suppression with kin and body-part nouns (Lødrup 2014)
+Norwegian is a North Germanic language that is spoken mainly in Norway and is its official language. Norwegian expresses inalienability by possessor suppression,[38] which takes place when noun phrases referring to inalienable possessions use the definite form and contain no possessive determiner.
+
+In sentence (28), "haken", the syntactic object, contains a suppressed possessor in its definite form. It does not contain an explicit possessive marker. In contrast, the English translation contains an explicit possessive determiner, "her", which denote possession. Possessive determiners are obligatory in English for subject-controlled body-part terms. 
+
+Hun
+She
+løftet
+raised
+haken
+chin.DEF
+Hun løftet haken
+She raised chin.DEF
+'She raised her chin'; lit. 'She raised the chin'
+(Thunes 2013: 168)
+Norwegian treats kinship nouns and body-part nouns similarly in relation to bound variable interpretations.[39] When a definite noun is present, it usually has a referential reading. In (29a), the referential reading is present. However, the presence of definite kinship or body part nouns may also bring about the bound variable reading in which a kinship or body part noun contains a variable bound by the quantifier in the subject, and (29b) may produce both the referential and bound variable readings. With the referential reading, the professors washed a face or father, mentioned earlier. With the bound variable reading, the professors washed their own face or father. Additionally, both kinship and body part nouns behave similarly in sentences with VP pronominalization. VP pronominalization involving both nouns allow for both a referential reading and a "sloppy reading", which involves variable binding. In (29c) in the referential reading, John and Mari wash a face or a mother been mentioned earlier. In the "sloppy reading", John washes his face or mother, and Mari washes hers.
+
+Hver
+every
+eneste
+single
+professor
+professor
+beskøte
+visited
+museet
+museum.DEF
+Hver eneste professor beskøte museet
+every single professor visited museum.DEF
+'Every single professor visited the museum'
+(Lødrup 2014:45)
+Hver
+every
+eneste
+single
+professor
+professor
+vasket
+washed
+ansiktet/faren
+face.DEF/father.DEF
+Hver eneste professor vasket ansiktet/faren
+every single professor washed face.DEF/father.DEF
+'Every single professor washed his/her face/father'
+
+Referential reading: Every single professor washed a face or father that was mentioned earlier.
+
+
+(Lødrup 2014:45)
+John
+John
+skal
+shall
+vaske
+wash
+ansiket
+face.DEF
+/moren,
+/mother.DEF
+og
+and
+det
+that
+skal
+shall
+Mari
+Mari
+også
+too
+John skal vaske ansiket /moren, og det skal Mari også
+John shall wash face.DEF /mother.DEF and that shall Mari too
+'John will wash his face/mother, and Mari will, too'
+
+Referential reading: John and Mari will wash a face or a mother that was mentioned earlier.
+
+
+(Lødrup 2014:46)
+Finally, both kinship and body part nouns bear similarities in locality. Both behave in such a way that the definite form of the noun is bound by the closest subject. In (30a), the possessor must be the subordinate clause subject, not the main clause subject. Likewise, in (30b), the father mentioned is preferably the father of the subordinate clause subject referent, not of the main clause subject referent. 
+
+Hun
+she
+sa
+said
+at
+that
+John
+John
+vasket
+washed
+håret
+hair.DEF
+Hun sa at John vasket håret
+she said that John washed hair.DEF
+'She said that John washed his hair'
+Hun
+she
+visste
+knew
+ikke
+not
+at
+that
+John
+John
+hadde
+had
+snakket
+talked
+med
+to
+faren
+father.DEF
+Hun visste ikke at John hadde snakket med faren
+she knew not that John had talked to father.DEF
+'She did not know that John had talked to his father'
+(Lødrup 2014:47)
+On the other hand, definite kinship and body-part nouns in Norwegian have a syntactic difference. Definite body part nouns allow a first- or second-person possessor, but some definite kinship nouns do not. For instance, the sentence in (31a) is not allowed as it contains a first-person possessor and kinship term. The kinship term can be used only with a third-person possessor, such as in (31b).
+
+*
+ 
+Jeg
+I
+snakket
+talked
+med
+to
+faren
+father.DEF
+* Jeg snakket med faren
+{} I talked to father.DEF
+'I talked to my father'
+Han
+He
+snakket
+talked
+med
+to
+far/faren
+father/father.DEF
+Han snakket med far/faren
+He talked to father/father.DEF
+'He talked to his father'
+(Lødrup 2014:49-50)
+However, body part nouns do not have the restriction on first- or second-person possessors like in (32).
+
+Jeg
+I
+klør
+itch
+på
+on
+ryggen
+back.DEF
+Jeg klør på ryggen
+I itch on back.DEF
+'My back is itching'
+(Lødrup 2014:49)
+Form function motivations
+Inalienable possession constructions often lack overt possessors.[34] There is a debate as to how to account for the linguistically-universal difference in form. Iconicity explains the in terms of the relationship between the conceptual distance between the possessor and the possessee,[40] and economy explains it by the frequency of possession.[41]
+
+Haiman describes iconic expression and conceptual distance and how both concepts are conceptually close if they share semantic properties, affect each other and cannot be separated from each other.[40] Joseph Greenberg hypothesizes that the distance between the possessor and possessee in a sentence with alienable possession is greater than in a sentence with inalienable constructions.[42] Because the possessor and the possessee have a close conceptual relationship, their relative positions with a sentence reflect that, and there is little distance between them. Increasing the distance between both would in turn increase their conceptual independence.
+
+That is demonstrated in Yagaria, a Papuan language that marks alienable possession by a free form pronoun as in (33a). In contrast, inalienable possession constructions use an inalienable possessor that is prefixed on the possessee, as in (33b), a construction that has less linguistic distance between the possessor and possessee than the alienable construction has:
+
+dgai'
+my
+fu
+pig
+dgai' fu
+my pig
+'my pig'
+d-za'
+my-arm
+d-za'
+my-arm
+'my arm'
+(Haiman 1983: 793 (30a,b))
+However, there are cases of linguistic distance not necessarily reflecting conceptual distance. Mandarin Chinese has two ways to express the same type of possession: POSSESSOR + POSSESSEE and POSSESSOR + de + POSSESSEE. The latter has more linguistic distance between the possessor and the possessee, but it reflects the same conceptual distance.[43] Both possessive expressions, with and without the marker de, are found in the Mandarin phrase "my friend", which is seen in (34a) unlike (34b):[44]
+
+wǒ
+I
+DE
+de
+péngyǒu
+friend
+wǒ DE péngyǒu
+I de friend
+'My friend'
+wǒ
+I
+péngyǒu
+friend
+wǒ péngyǒu
+I friend
+'My friend'
+(Hsu 2009: 101 (22a,b))
+In contrast to the previous example, the omission of the marker de is ungrammatical, as in example (35b). The linguistic distance between the possessor and the possessee is much smaller in (35b) than in (35a). It has been argued that the omission of de occurs only in kinship relationships, but phrasal constructions with a mandatory de encompasse other cases of inalienable possession, such as body parts.[40]: 783  That contradicts the notion that inalienable possession is marked by less linguistic distance between the possessor and the possessee.
+
+wǒ
+I
+xǐhuān
+like
+nǐ
+you
+DE
+de
+tóufà
+hair
+wǒ xǐhuān nǐ DE tóufà
+I like you de hair
+'I like your hair'
+*
+ 
+wǒ
+I
+xǐhuān
+like
+nǐ
+you
+tóufà
+hair
+* wǒ xǐhuān nǐ tóufà
+{} I like you hair
+'I like your hair'
+(Li & Thompson 1981: 169)
+Nichols notes that frequently-possessed nouns, such as body parts and kinship terms, almost always occur with possessors, and alienable nouns occur less often with possessors.[41][45]
+
+The following shows the frequency of possession between alienable and unalienable nouns in German.[45] The table below shows the number of times that each noun occurred with or without a possessor in texts from the German Goethe-Corpus of the works of Johann Wolfgang von Goethe.
+
+The alienable nouns above are rarely possessed, but the inalienable kinship terms are frequently possessed.[45] Consequently, inalienable nouns are expected to be possessed even if they lack a distinct possessive marker. Therefore, overt markings on inalienable nouns are redundant, and for economical syntactic construction, languages often have zero-marking for their inalienable nouns.[41]
+
+That could be explained by Zipf's Law in which the familiarity or the frequency of an occurrence motivates the linguistic simplification of the concept.[40] A listener who hears an inalienable noun can predict that it will be possessed, which eliminates the need for an overt possessor.[34]
+
+Glossary of abbreviations
+Morpheme glosses
+Syntactic trees
+D:determiner
+DP:determiner phrase
+N:noun
+NP:noun phrase
+PP:prepositional phrase
+T:tense
+TP:tense phrase
+V:verb
+VP:verb phrase
+
+Other languages
+Austronesian languages
+Old Rapa is the indigenous language of Rapa Iti, an island of French Polynesia in the Bass Islands archipelago. The language structure of Rapa has two primary possessive particles: a and o. The usage of both particles is dependent on the relation between the possessor and the object. When words are categorized by possessive particles, there is a very close resemblance to the usage of the possessive particle and the object's alienability. However, the relation is better defined by William Wilson in his article Proto-Polynesian Possessive Marking.
+
+Briefly, through his two theories, the Simple Control Theory and Initial Control Theory, Wilson contrasts and thus better defines the usage of the possessive particles. The Simple Control Theory speculates that the determining factor directly correlated to the possessor's control over the object and emphasises a dominant vs. less-dominant relationship. Old Rapa adheres closer to the Initial Control Theory, which speculates that "the possessor's control over the initiation of the possessive relationship is the determining factor." Here, the Initial Control Theory can also be generally expanded to the whole Polynesian language family in terms of better describing the "alienability" of possession.[46]
+
+In the case of Old Rapa, the possession particle o is used to define a possession relationship that was not initiated on the basis of choice. The possession particle a defines possession relationships that are initiated with the possessor's control. The following list and classifications are literal examples provided by Mary Walworth in her dissertation of Rapa. Words that are marked with the o possessive markers are nouns that are:
+
+However, Wilson's theory falls short of properly categorizing a few miscellaneous items such as articles of clothing and furniture that his theory would incorrectly predict to be marked with the possessive particle a. The reverse occurs for objects such as food and animals. The synthesis of Wilson's theory and others approach a better understanding of the Rapa language. Svenja Völkel proposed the idea of looking further into the ritualistic beliefs of the community: its mana. That idea has been related to other languages in the Eastern Polynesian language family. It states that objects with less mana than the possessor use the a-possessive particle, and the usage of the o-possessive marker is reserved for the possessor's mana that is not superior.[47]
+
+The same usage of the possessive particles in possessive pronouns can be seen in the contracted portmanteau, the combination of the articles and possessive markers. The results are the prefixes tō and tā in the following possessive pronouns, as can be seen in the table below:
+
+Wuvulu
+Wuvulu language is a small language spoken in Wuvulu Island.[49] Direct possession has a close relationship with inalienability in Oceanic linguistics. Similarly, the inherent possession of the possessor is called the possessum.[50]
+
+The inalienable noun also has a possessor suffix and includes body parts, kinship terms, locative part nouns and derived nouns. According to Hafford's research, "-u" (my), "-mu" (your) and "na-"（his/her/its) are three direct possession suffix in Wuvulu.[51]
+
+Direct- possession suffix "-u"(my), "-mu" (your) and "na-"（his/her/its) can be taken to attach the noun phrase of body part.[52]
+
+Kinship terms in Wuvulu language take singular possessive suffixes.[52]
+
+Example:
+
+ʔei wareamu (Your word) is derived from the verb ware (talk)
+
+Such a word can take the direct possessor suffix. "-mu" (your {singular])
+
+faʔua,
+true
+ʔei
+the
+ware-a-mu
+talk-DER-2SG
+faʔua, ʔei ware-a-mu
+true the talk-DER-2SG
+Your words are true.[52] Unknown glossing abbreviation(s) (help);
+Tokelauan
+Here is a table displaying the predicative possessive pronouns in Tokelauan:
+
+[53]
+
+Here is a table with the Tokelauan possessive pronouns:
+
+[53]
+
+See also
+Notes
+References
+External links

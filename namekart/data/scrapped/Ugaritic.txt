@@ -1,0 +1,30 @@
+Ugaritic[2][3] (/ˌjuːɡəˈrɪtɪk, ˌuː-/[4]) is an extinct Northwest Semitic language known through the Ugaritic texts discovered by French archaeologists in 1928 at Ugarit,[5][6][7][8][9][10][11] including several major literary texts, notably the Baal cycle.[11][12]
+
+Ugaritic has been called "the greatest literary discovery from antiquity since the deciphering of the Egyptian hieroglyphs and Mesopotamian cuneiform".[13]
+
+Corpus
+The Ugaritic language is attested in texts from the 14th through the 12th century BC. The city of Ugarit was destroyed roughly 1190 BC.[14]
+
+Literary texts discovered at Ugarit include the Legend of Keret, the legends of Danel, the Myth of Baal-Aliyan, and the Death of Baal. The latter two are also known collectively as the Baal Cycle. All reveal aspects of ancient Northwest Semitic religion.
+
+Edward Greenstein has proposed that Ugaritic texts might help solve biblical puzzles such as the anachronism of Ezekiel mentioning Daniel in Ezekiel 14:13–16[11] actually referring to Danel, a hero from the Ugaritic Tale of Aqhat.
+
+Phonology
+Ugaritic had 28 consonantal phonemes (including two semivowels) and eight vowel phonemes (three short vowels and five long vowels): a ā i ī u ū ē ō. The phonemes ē and ō occur only as long vowels and are the result of monophthongization of the diphthongs аy and aw, respectively.
+
+The following table shows Proto-Semitic phonemes and their correspondences among Ugaritic, Classical Arabic and Tiberian Hebrew:
+
+Writing system
+The Ugaritic alphabet is a cuneiform script used beginning in the 15th century BC. Like most Semitic scripts, it is an abjad, where each symbol stands for a consonant, leaving the reader to supply the appropriate vowel.
+
+Although it appears similar to Mesopotamian cuneiform (whose writing techniques it borrowed), its symbols and symbol meanings are unrelated. It is the oldest example of the family of West Semitic scripts such as the Phoenician, Paleo-Hebrew, and Aramaic alphabets (including the Hebrew alphabet). The so-called "long alphabet" has 30 letters while the "short alphabet" has 22. Other languages (particularly Hurrian) were occasionally written in the Ugarit area, although not elsewhere.
+
+Clay tablets written in Ugaritic provide the earliest evidence of both the Levantine ordering of the alphabet, which gave rise to the alphabetic order of the Hebrew, Greek, and Latin alphabets; and the South Semitic order, which gave rise to the order of the Ge'ez script. The script was written from left to right.
+
+Grammar
+Ugaritic is an inflected language, and its grammatical features are highly similar to those found in Akkadian, Classical Arabic and, to a lesser extent, Biblical Hebrew. It possesses two genders (masculine and feminine), three grammatical cases for nouns and adjectives (nominative, accusative, and genitive), three numbers (singular, dual, and plural), and verb aspects similar to those found in other Northwest Semitic languages. The word order for Ugaritic is verb–subject–object (VSO) and subject–object–verb (SOV),[15] possessed–possessor (NG), and noun–adjective (NA). Ugaritic is considered a conservative Semitic language, since it retains most of the phonemes, the case system, and the word order of the ancestral Proto-Semitic language.[16]
+
+Notes
+References
+Further reading
+External links

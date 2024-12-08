@@ -1,0 +1,59 @@
+The Sámi languages (/ˈsɑːmi/ SAH-mee),[4] also rendered in English as Sami and Saami, are a group of Uralic languages spoken by the Indigenous Sámi peoples in Northern Europe (in parts of northern Finland, Norway, Sweden, and extreme northwestern Russia). There are, depending on the nature and terms of division, ten or more Sami languages. Several spellings have been used for the Sámi languages, including Sámi, Sami, Saami, Saame, Sámic, Samic and Saamic, as well as the exonyms Lappish and Lappic. The last two, along with the term Lapp, are now often considered pejorative.[5]
+
+Classification
+The Sámi languages form a branch of the Uralic language family. According to the traditional view, Sámi is within the Uralic family most closely related to the Finnic languages (Sammallahti 1998). However, this view has recently been doubted by some scholars who argue that the traditional view of a common Finno-Sami protolanguage is not as strongly supported as had been earlier assumed,[6] and that the similarities may stem from an areal influence on Sámi from Finnic.
+
+In terms of internal relationships, the Sámi languages are traditionally divided into the two groups of western and eastern. The groups may be further divided into various subgroups and ultimately individual languages. (Sammallahti 1998: 6-38.) Recently it has been proposed on the basis of (1) different sound substitutions seen between the Sámi languages in the Proto-Scandinavian loanwords and (2) historical phonology that the first unit to branch off from Late Proto-Sámi was Southern Proto-Sámi, from which descend South Sámi, Ume Sámi, and Gävle Sámi (extinct during the 19th century).[7][8]
+
+Parts of the Sámi language area form a dialect continuum in which the neighbouring languages may be mutually intelligible to a fair degree, but two more widely separated groups will not understand each other's speech. There are, however, some sharp language boundaries, in particular between Northern Sami, Inari Sami and Skolt Sami, the speakers of which are not able to understand each other without learning or long practice. The evolution of sharp language boundaries seems to suggest a relative isolation of the language speakers from each other and not very intensive contacts between the respective speakers in the past. There is some significance in this, as the geographical barriers between the respective speakers are no different from those in other parts of the Sámi area.
+
+The above figures are approximate.
+
+Geographic distribution
+The Sami languages are spoken in Sápmi in Northern Europe, in a region stretching over the four countries Norway, Sweden, Finland and Russia, reaching from the southern part of central Scandinavia in the southwest to the tip of the Kola Peninsula in the east. The borders between the languages do not align with the ones separating the region's modern states.
+
+During the Middle Ages and early modern period, now-extinct Sami languages were also spoken in the central and southern parts of Finland and Karelia and in a wider area on the Scandinavian Peninsula. Historical documents as well as Finnish and Karelian oral tradition contain many mentions of the earlier Sami inhabitation in these areas (Itkonen, 1947). Also, loanwords as well as place-names of Sami origin in the southern dialects of Finnish and Karelian dialects testify of earlier Sami presence in the area (Koponen, 1996; Saarikivi, 2004; Aikio, 2007). These Sami languages, however, became extinct later, under the wave of the Finno-Karelian agricultural expansion.
+
+History
+The Proto-Sámi language is believed to have formed in the vicinity of the Gulf of Finland between 1000 BC to 700 AD, deriving from a common Proto-Sami-Finnic language (M. Korhonen 1981).[19] However, reconstruction of any basic proto-languages in the Uralic family have reached a level close to or identical to Proto-Uralic (Salminen 1999).[20] According to the comparative linguist Ante Aikio, the Proto-Samic language developed in South Finland or in Karelia around 2000–2500 years ago, spreading then to northern Fennoscandia.[21] The language is believed to have expanded west and north into Fennoscandia during the Nordic Iron Age, reaching central Scandinavia during the Proto-Scandinavian period ca. 500 AD (Bergsland 1996).[22] The language assimilated several strata of unknown Paleo-European languages from the early hunter-gatherers, first during the Proto-Sami phase and second in the subsequent expansion of the language in the west and the north of Fennoscandia that is part of modern Sami today. (Aikio 2004, Aikio 2006).[21][23]
+
+Written languages and sociolinguistic situation
+At present there are nine living Sami languages. Eight of the languages have independent literary languages; the other one has no written standard, and of it, there are only a few, mainly elderly, speakers left. The ISO 639-2 code for all Sami languages without their own code is "smi". The eight written languages are:
+
+The other Sami languages are critically endangered (moribund, have very few speakers left) or extinct. Ten speakers of Ter Sami were known to be alive in 2004.[26] The last speaker of Akkala Sami is known to have died in December 2003,[27] and the eleventh attested variety, Kemi Sami, became extinct in the 19th century. An additional Sami language, Kainuu Sami, became extinct in the 18th century, and probably belonged to the Eastern group like Kemi Sami, although the evidence for the language is limited.
+
+Orthographies
+Most Sámi languages use Latin alphabets, with these respective additional letters.
+
+The use of Ææ and Øø in Norway vs. Ää and Öö in Sweden merely reflects the orthographic standards used in the Norwegian and Swedish alphabets, respectively, not differences in pronunciations.
+
+The letter Đ in Sámi languages is a capital D with a bar across it (Unicode code point: U+0110), which is also used in Serbo-Croatian, Vietnamese, etc., not the near-identical capital eth (Ð; U+00D0) used in Icelandic, Faroese or Old English.
+
+The capital letter Ŋ (eng) is commonly presented in Sámi languages using the "N-form" variant based the usual Latin uppercase N with a hook added.[28] Unicode assigns code point U+014A to the uppercase eng, but does not prescribe the form of the glyph.[29]
+
+The Skolt Sámi standard uses ʹ (U+02B9) as a soft sign,[30] but other apostrophes, such as ' (U+0027), ˊ (U+02CA) or ´ (U+00B4), are also sometimes used in published texts.
+
+The Kildin Sámi orthography uses the Russian Cyrillic script with these additional letters: А̄а̄ Ӓӓ Е̄е̄ Ё̄ё̄ Һһ/ʼ Ӣӣ Јј/Ҋҋ Ӆӆ Ӎӎ Ӊӊ Ӈӈ О̄о̄ Ҏҏ Ӯӯ Ҍҍ Э̄э̄ Ӭӭ Ю̄ю̄ Я̄я̄
+
+Availability
+In December 2023, Apple has provided on-screen keyboards for all eight Sámi languages still spoken (with iOS and iPadOS releases 17.2), thus enabling Sámi speakers to use their language on iPhones and iPads without restrictions or difficulties.[31]
+
+The Finnish SFS 5966 [fi] keyboard standard of 2008[32] is designed for easily typing Sámi languages through use of AltGr and dead diacritic keys.[33]
+
+Official status
+Norway
+Adopted in April 1988, Article 110a of the Norwegian Constitution states: "It is the responsibility of the authorities of the State to create conditions enabling the Sami people to preserve and develop its language, culture and way of life". The Sami Language Act went into effect in the 1990s. Sámi is an official language alongside Norwegian in the "administrative area for Sámi language", that includes eight municipalities in the northern half of Norway, namely Kautokeino Municipality, Karasjok Municipality, Kåfjord Municipality, Nesseby Municipality, Porsanger Municipality, Tana Municipality, Tysfjord Municipality, Lavangen Municipality, and Snåsa Municipality.[34] In 2005 Sámi, Kven, Romanes and Romani were recognised as "regional or minority languages" in Norway within the framework of the European Charter for Regional or Minority Languages.[35]
+
+Sweden
+On 1 April 2000, Sami became one of five recognized minority languages in Sweden.[36][37] It can be used in dealing with public authorities in Arjeplog Municipality, Gällivare Municipality, Jokkmokk Municipality, and Kiruna Municipality. In 2011, this list was enlarged considerably. In Sweden the University of Umeå teaches North, Ume and South Sami, and Uppsala University has courses in North, Lule and South Sami.
+
+Finland
+In Finland, the Sami language act of 1991 granted the Northern, Inari, and Skolt Sami the right to use their languages for all government services. The Sami Language Act of 2003 (Northern Sami: Sámi giellaláhka; Inari Sami: Säämi kielâlaahâ; Skolt Sami: Sääʹmǩiõll-lääʹǩǩ; Finnish: Saamen kielilaki; Swedish: Samisk språklag) made Sami an official language in Enontekiö, Inari, Sodankylä and Utsjoki municipalities. Some documents, such as specific legislation, are translated into these Sami languages, but knowledge of any of these Sami languages among officials is not common. As the major language in the region is Finnish, Sami speakers are essentially always bilingual with Finnish. Language nest daycares have been set up for teaching the languages to children. In education, Northern Sami, and to a more limited degree, Inari and Skolt Sami, can be studied at primary and secondary levels, both as a mothertongue (for native speakers) and as a foreign language (for non-native speakers).
+
+Russia
+In Russia, Sámi has no official status, neither on the national, regional or local level. It is included in the list of Indigenous minority languages. (Kildin) Sami has been taught at the Murmansk State Technical University since 2012; before then, it was taught at the Institute of the Peoples of the North in Saint Petersburg.[citation needed]
+
+See also
+References
+Sources
+External links

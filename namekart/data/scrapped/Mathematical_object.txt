@@ -1,0 +1,49 @@
+A mathematical object is an abstract concept arising in mathematics.[1] Typically, a mathematical object can be a value that can be assigned to a symbol, and therefore can be involved in formulas. Commonly encountered mathematical objects include numbers, expressions, shapes, functions, and sets. Mathematical objects can be very complex; for example, theorems, proofs, and even theories are considered as mathematical objects in proof theory.
+
+In Philosophy of mathematics, the concept of "mathematical objects" touches on topics of existence, identity, and the nature of reality.[2] In metaphysics, objects are often considered entities that possess properties and can stand in various relations to one another.[3] Philosophers debate whether mathematical objects have an independent existence outside of human thought (realism), or if their existence is dependent on mental constructs or language (idealism and nominalism). Objects can range from the concrete: such as physical objects usually studied in applied mathematics, to the abstract, studied in pure mathematics. What constitutes an "object" is foundational to many areas of philosophy, from ontology (the study of being) to epistemology (the study of knowledge). In mathematics, objects are often seen as entities that exist independently of the physical world, raising questions about their ontological status.[4][5] There are varying schools of thought which offer different perspectives on the matter, and many famous mathematicians and philosophers each have differing opinions on which is more correct.[6]
+
+In philosophy of mathematics
+Quine-Putnam indispensability
+Quine-Putnam indispensability is an argument for the existence of mathematical objects based on their unreasonable effectiveness in the natural sciences. Every branch of science relies largely on large and often vastly different areas of mathematics. From physics' use of Hilbert spaces in quantum mechanics and differential geometry in general relativity to biology's use of chaos theory and combinatorics (see mathematical biology), not only does mathematics help with predictions, it allows these areas to have an elegant language to express these ideas. Moreover, it is hard to imagine how areas like quantum mechanics and general relativity could have developed without their assistance from mathematics, and therefore, one could argue that mathematics is indispensable to these theories. It is because of this unreasonable effectiveness and indispensability of mathematics that philosophers Willard Quine and Hilary Putnam argue that we should believe the mathematical objects for which these theories depend actually exist, that is, we ought to have an ontological commitment to them. The argument is described by the following syllogism:[7]
+(Premise 1)   We ought to have ontological commitment to all and only the entities that are indispensable to our best scientific theories.
+
+(Premise 2)   Mathematical entities are indispensable to our best scientific theories.
+
+
+(Conclusion) We ought to have ontological commitment to mathematical entities
+This argument resonates with a philosophy in applied mathematics called Naturalism[8] (or sometimes Predicativism)[9] which states that the only authoritative standards on existence are those of science.
+
+Schools of thought
+Platonism asserts that mathematical objects are seen as real, abstract entities that exist independently of human thought, often in some Platonic realm. Just as physical objects like electrons and planets exist, so do numbers and sets. And just as statements about electrons and planets are true or false as these objects contain perfectly objective properties, so are statements about numbers and sets. Mathematicians discover these objects rather than invent them.[10][11] (See also: Mathematical Platonism)
+
+Some some notable platonists include:
+
+Nominalism denies the independent existence of mathematical objects. Instead, it suggests that they are merely convenient fictions or shorthand for describing relationships and structures within our language and theories. Under this view, mathematical objects don't have an existence beyond the symbols and concepts we use.[13][14]
+
+Some notable nominalists incluse:
+
+Logicism asserts that all mathematical truths can be reduced to logical truths, and all objects forming the subject matter of those branches of mathematics are logical objects. In other words, mathematics is fundamentally a branch of logic, and all mathematical concepts, theorems, and truths can be derived from purely logical principles and definitions. Logicism faced challenges, particularly with the Russillian axioms, the Multiplicative axiom (now called the Axiom of Choice) and his Axiom of Infinity, and later with the discovery of Gödel’s incompleteness theorems, which showed that any sufficiently powerful formal system (like those used to express arithmetic) cannot be both complete and consistent. This meant that not all mathematical truths could be derived purely from a logical system, undermining the logicist program.[16]
+
+Some notable logicists include:
+
+Mathematical formalism treats objects as symbols within a formal system. The focus is on the manipulation of these symbols according to specified rules, rather than on the objects themselves. One common understanding of formalism takes mathematics as not a body of propositions representing an abstract piece of reality but much more akin to a game, bringing with it no more ontological commitment of objects or properties than playing ludo or chess. In this view, mathematics is about the consistency of formal systems rather than the discovery of pre-existing objects. Some philosophers consider logicism to be a type of formalism.[19]
+
+Some notable formalists include:
+
+Mathematical constructivism asserts that it is necessary to find (or "construct") a specific example of a mathematical object in order to prove that an example exists. Contrastingly, in classical mathematics, one can prove the existence of a mathematical object without "finding" that object explicitly, by assuming its non-existence and then deriving a contradiction from that assumption. Such a proof by contradiction might be called non-constructive, and a constructivist might reject it. The constructive viewpoint involves a verificational interpretation of the existential quantifier, which is at odds with its classical interpretation.[22] There are many forms of constructivism.[23] These include the program of intuitionism founded by Brouwer, the finitism of Hilbert and Bernays, the constructive recursive mathematics of mathematicians Shanin and Markov, and Bishop's program of constructive analysis.[24] Constructivism also includes the study of constructive set theories such as Constructive Zermelo–Fraenkel and the study of philosophy.
+
+Structuralism suggests that mathematical objects are defined by their place within a structure or system. The nature of a number, for example, is not tied to any particular thing, but to its role within the system of arithmetic. In a sense, the thesis is that mathematical objects (if there are such objects) simply have no intrinsic nature.[25][26]
+
+Some notable structuralists include:
+
+Objects versus mappings
+Frege famously distinguished between functions and objects.[29] According to his view, a function is a kind of ‘incomplete’ entity that maps arguments to values, and is denoted by an incomplete expression, whereas an object is a ‘complete’ entity and can be denoted by a singular term. Frege reduced properties and relations to functions and so these entities are not included among the objects. Some authors make use of Frege’s notion of ‘object’ when discussing abstract objects.[30] But though Frege’s sense of ‘object’ is important, it is not the only way to use the term. Other philosophers include properties and relations among the abstract objects. And when the background context for discussing objects is type theory, properties and relations of higher type (e.g., properties of properties, and properties of relations) may be all be considered ‘objects’. This latter use of ‘object’ is interchangeable with ‘entity.’ It is this more broad interpretation that mathematicians mean when they use the term 'object'.[31]
+
+See also
+References
+Cited sources
+
+Further reading
+
+Notes
+External links

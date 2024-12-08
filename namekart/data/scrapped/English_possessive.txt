@@ -1,0 +1,118 @@
+In English, possessive words or phrases exist for nouns and most pronouns, as well as some noun phrases. These can play the roles of determiners (also called possessive adjectives when corresponding to a pronoun) or of nouns.
+
+For nouns, noun phrases, and some pronouns, the possessive is generally formed with the suffix -'s, but in some cases just with the addition of an apostrophe to an existing s. This form is sometimes called the Saxon genitive, reflecting the suffix's derivation from Old English.[1] However, personal pronouns  have irregular possessives that aren't using an apostrophe, such as its, and most of them have different forms for possessive determiners and possessive pronouns, such as my and mine or your and yours.
+
+Possessives are one of the means by which genitive constructions are formed in modern English, the other principal one being the use of the preposition of. It is sometimes stated that the possessives represent a grammatical case, called the genitive or possessive case; however, some linguists do not accept this view and regard the 's ending as either a phrasal affix, an edge affix, or a clitic, rather than as a case ending.[citation needed]
+
+Formation of possessive construction
+Nouns and noun phrases
+The possessive form of an English noun, or more generally a noun phrase, is made by suffixing a morpheme which is represented orthographically as 's (the letter s preceded by an apostrophe), and is pronounced in the same way as the regular English plural ending (e)s: namely, as /ɪz/ when following a sibilant sound (/s/, /z/, /ʃ/, /ʒ/, /tʃ/ or /dʒ/), as /s/ when following any other voiceless consonant (/p/,  /t/, /k/, /f/, /θ/, or /x/), and as /z/ otherwise. For example:
+
+In the case of plural nouns ending in -s, the possessive is spelled by only adding an apostrophe and is pronounced the same (for example: Peasants' Revolt). In the case of singular nouns ending in -s (or -z in another sibilant -z or -x sound; or -se, -ze, -ce or -xe. Example, Verreaux's eagle),[citation needed] the possessive was traditionally[2] also spelled by adding only an apostrophe (despite often being pronounced differently):
+
+Singular nouns ending in s also form a possessive regularly by adding 's, as in Charles's /ˈtʃɑːrlzɪz/ or boss's. The Chicago Manual of Style recommends this style, while stating that adding just an apostrophe (e.g. Jesus') is also correct.[3] The Associated Press Stylebook recommends the s's style for nouns other than proper nouns, but only if the following word does not begin with s.[2] The Elements of Style and the Canadian Press Stylebook prefer the form of s's with the exception of Biblical and classical proper names (Jesus' teachings, Augustus' guards) and common phrases that do not take the extra syllabic s (e.g. "for goodness' sake").[4][5] For more on style guidance for this and other issues relating to the construction of possessives in English, see possessive apostrophe.
+
+More generally, the 's morpheme can be attached to the last word of a noun phrase, even if the head noun does not end the phrase. For example, the phrase the king of Spain can form the possessive the king of Spain's, and – in informal style – the phrase the man we saw yesterday can form the man we saw yesterday's. Both John's and Laura's house and John and Laura's house are correct, though the latter is more common, especially in idiomatic speech. See § Status of the possessive as a grammatical case below.
+
+Pronouns
+Unlike other noun phrases which only have a single possessive form, personal pronouns in English have two possessive forms: possessive determiners (used to form noun phrases such as "her success") and possessive pronouns (used in place of nouns either as an object, as in "I prefer hers", or as a predicate pronoun, as in "the success was hers"). In most cases, these are different from each other.
+
+For example, the pronoun I has possessive determiner my and possessive pronoun mine; you has your and yours; he has  his for both; she has her and hers; it has its for both; we has our and ours; they has their and theirs. The archaic thou has thy and thine. For a full table and further details, see English personal pronouns.
+
+The possessive its has no apostrophe, although it is sometimes written with one in error (see hypercorrection) by confusion with the common possessive ending -'s and the contraction it's used for it is and it has. Possessive its was originally formed with an apostrophe in the 17th century, but it had been dropped by the early 19th century, presumably on the pattern of the apostrophe being omitted from personal possessive pronouns.[6]
+
+The interrogative and relative pronoun who has the possessive whose. In its relative use, whose can also refer to inanimate antecedents, but its interrogative use always refers to persons.[7]
+
+Other pronouns that form possessives (mainly indefinite pronouns) do so in the same way as nouns, with  's, for example one's, somebody's (and somebody else's). Certain pronouns, such as the common demonstratives this, that, these, and those, do not form their possessives using 's, and of this, of that, etc., are used instead.
+
+English possessive pronouns agree with the gender of their antecedent or referent, whereas in other languages, such as Italian, the possessive pronoun agrees with the gender of the head noun of the noun phrase in which it appears. To exemplify these differences, compare he loved his mother, in which his is masculine in agreement with he, to ama sua madre, in which sua is feminine in agreement with madre (mother).
+
+Syntactic functions of possessive words or phrases
+English possessives play two principal roles in syntax:
+
+As determiners
+Possessive noun phrases such as "John's" can be used as determiners. When a form corresponding to a personal pronoun is used as a possessive determiner, the correct form must be used, as described above (my rather than mine, etc.).
+
+Possessive determiners are not used in combination with articles or other definite determiners. For example, it is not correct to say *the my hat,[note 2] *a my hat or *this my hat; an alternative is provided in the last two cases by the "double genitive" as described in the following section – a hat of mine (also one of my hats), this hat of mine. Possessive determiners can nonetheless be combined with certain quantifiers, as in my six hats (which differs in meaning from six of my hats). See English determiners for more details.
+
+A possessive adjective can be intensified with the word own, which can itself be either an adjective or a pronoun: my own (bed), John's own (bed).
+
+In some expressions the possessive has itself taken on the role of a noun modifier, as in cow's milk (used rather than cow milk). It then no longer functions as a determiner; adjectives and determiners can be placed before it, as in the warm cow's milk, where idiomatically the and warm now refer to the milk, not to the cow.
+
+Possessive relationships can also be expressed periphrastically, by preceding the noun or noun phrase with the preposition of, although possessives are usually more idiomatic where a true relationship of possession is involved. Some examples:
+
+Another alternative in the last case may be the system failure, using system as a noun adjunct rather than a possessive – this is common when the possessor is more abstract in character.
+
+As pronouns
+Possessives can also play the role of nouns or pronouns; namely they can stand alone as a noun phrase, without qualifying a noun. In this role they can function as the subject or object of verbs, or as a complement of prepositions. When a form corresponding to a personal pronoun is used in this role, the correct form must be used, as described above (mine rather than my, etc.).
+
+Examples:
+
+
+
+Double genitive
+The genitive can be combined with an of construction to produce what is often called a double genitive, as in the following examples:
+
+Some object to the name double genitive because the "of" clause is not a genitive. Alternative names are "oblique genitive",[9] "post-genitive",[10] "cumulative genitive", "pleonastic genitive",[11][12] and "double possessive".[13]
+
+Some writers have stigmatized this usage.[13][14] However, it has a history in careful English. "Moreover, in some sentences the double genitive offers the only way to express what is meant. There is no substitute for it in a sentence such as That's the only friend of yours that I've ever met, since sentences such as That's your only friend that I've ever met and That's your only friend, whom I've ever met are not grammatical."[15] Cf. "That's the only one of your friends that I've ever met" "[T]he construction is confined to human referents: compare a friend of the Gallery / no fault of the Gallery."[16]
+
+The Oxford English Dictionary says that this usage was "Originally partitive, but subseq[uently became a] ... simple possessive ... or as equivalent to an appositive phrase ...".[17]
+
+Nested possessive
+Because a possessive is itself a determiner phrase, possessives can be nested arbitrarily deep, as in Lincoln's Doctor's Dog or *John's friend's mother's ... lawyer's brother.[18]: 178 
+
+Subject complements
+When they are used as subject complements, as in this is mine and that pen is John's, the intended sense may be either that of a predicate pronoun or of a predicate adjective; however, their form (mine, yours, etc.) in this case is the same as that used in other sentences for possessive pronouns.
+
+Use of whose
+The following sentences illustrate the uses of whose:
+
+Semantics
+Possessives, as well as their synonymous constructions with of, express a range of relationships that are not limited strictly to possession in the sense of ownership. Some discussion of such relationships can be found at Possession (linguistics) and at Possessive § Semantics. Some points as they relate specifically to English are discussed below.
+
+Actions
+When possessives are used with a verbal noun or other noun expressing an action, the possessive may represent either the doer of the action (the subject of the corresponding verb) or the undergoer of the action (the object of the verb). The same applies to of phrases. When a possessive and an of phrase are used with the same action noun, the former generally represents the subject and the latter the object. For example:
+
+When a gerundive phrase acts as the object of a verb or preposition, the agent/subject of the gerund may be possessive or not, reflecting two different but equally valid interpretations of the phrase's structure:
+
+Time periods
+Time periods are sometimes put into possessive form, to express the duration of or time associated with the modified noun:
+
+The paraphrase with of is often un-idiomatic or ambiguous in these cases.
+
+Expressing for
+Sometimes the possessive expresses for whom something is intended, rather than to whom it physically belongs:
+
+These cases would be paraphrased with for rather than of (shoes for women).
+
+Appositive genitive
+Sometimes genitive constructions are used to express a noun in apposition to the main one, as in the Isle of Man, the problem of drug abuse. This may be occasionally be done with a possessive (as in Dublin's fair city, for the fair city of Dublin), but this is a rare usage.[19]
+
+History
+The 's clitic originated in Old English as an inflexional suffix marking genitive case. In the modern language, it can often be attached to the end of an entire phrase (as in "The king of Spain's wife" or "The man whom you met yesterday's bicycle").  As a result, it is normally viewed by linguists as a clitic – that is, a morpheme that has syntactic characteristics of a word, but depends phonologically on another word or phrase.[20]
+
+An identical form of the clitic exists in the North Germanic languages, and in the North Frisian sister language of Old English. But the accepted linguistic history of the clitic possessive in these languages is very different.
+
+In Old English, -es was the ending of the genitive singular of most strong declension nouns and the masculine and neuter genitive singular of strong adjectives. The ending -e was used for strong nouns with Germanic ō-stems, which constituted most of the feminine strong nouns, and for the feminine genitive singular form of strong adjectives.[21]
+
+In Middle English the es ending was generalised to the genitive of all strong declension nouns. By the sixteenth century, the remaining strong declension endings were generalized to all nouns. The spelling es remained, but in many words the letter e no longer represented a sound. In those words, printers often copied the French practice of substituting an apostrophe for the letter e. In later use, 's was used for all nouns where the /s/ sound was used for the possessive form, and when adding 's to a word like love the e was no longer omitted. The 's form was also used for plural noun forms. These were derived from the strong declension as ending in Old English. In Middle English, the spelling was changed to -es, reflecting a change in pronunciation, and extended to all cases of the plural, including the genitive. Later conventions removed the apostrophe from subjective and objective case forms and added it after the s in possessive case forms. See Apostrophe: Historical development
+
+In the Early Modern English of 1580 to 1620 it was sometimes spelled as "his" as a folk etymology, e.g. "St. James his park"; see his genitive.
+
+The verse Genesis 9:6 shows the development. The Wycliffe Bible (1395) contains the word "mannus" ("Who euere schedith out mannus blood, his blood schal be sched; for man is maad to the ymage of God.").[22] In the original King James Bible (1611) there is "mans" ("Who so sheddeth mans blood, by man shall his blood be shed: for in the image of God made he man.").[23] In the plural, the 1611 King James has mens, but the older Wycliffe Bible uses of men.
+
+Another remnant of the Old English genitive is the adverbial genitive, where the ending s (without apostrophe) forms adverbs of time: nowadays, closed Sundays. There is a literary periphrastic form using of, as in of a summer day.[24] There are also forms in -ce, from genitives of number and place: once, twice, thrice; whence, hence, thence.
+
+There is also the "genitive of measure": forms such as "a five-mile journey" and "a ten-foot pole" use what is actually a remnant of the Old English genitive plural which, ending in /a/, had neither the final /s/ nor underwent the foot/feet vowel mutation of the nominative plural. In essence, the underlying forms are "a five of miles (O.E. gen. pl. mīla) journey" and "a ten of feet (O.E. gen. pl. fōta) pole".[25]
+
+Status of the possessive as a grammatical case
+Historically, the possessive morpheme represented by 's was a case marker, as noted in the previous section, and the modern English possessive can also be analysed as a grammatical case, called the "possessive case" or "genitive case". However, it differs from the noun inflection of languages such as German, in that in phrases like the king of England's horse the ending is separated from the head noun (king) and attaches to the last word of the phrase. To account for this, the possessive can be analysed, for instance, as a clitic construction (an "enclitic postposition") or as an inflection of the last word of a phrase ("edge inflection").
+
+For instance, 
+
+Other views are (1) that the possessive can be regarded as having elements of an affix and elements of a clitic, which are seen as idealized categories, and (2) that the possessive form can be an affix or a clitic, but only one of the two in any given example.[30][31]
+
+Notes
+References
+External links

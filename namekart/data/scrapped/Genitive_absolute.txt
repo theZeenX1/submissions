@@ -1,0 +1,94 @@
+In Ancient Greek grammar, the genitive absolute is a grammatical construction consisting of a participle and often a noun both in the genitive case, which is very similar to the ablative absolute in Latin. A genitive absolute construction serves as a dependent clause, usually at the beginning of a sentence, in which the genitive noun is the subject of the dependent clause and the participle takes on the role of predicate.
+
+The term absolute comes from the Latin absolutus, literally meaning "made loose". That comes from the general truth that the genitive absolute usually does not refer to anything in the independent clause; however, there are many exceptions, notably in the New Testament and in Koine.[1]
+
+Examples
+Below are some examples of the genitive absolute, in different tenses.
+
+ἔαρος
+éaros
+ἀρχομένου,
+arkhoménou,
+οἱ
+hoi
+Ἀθηναῖοι
+Athēnaîoi
+ἔπλευσαν
+épleusan
+εἰς
+eis
+Προκόννησον
+Prokónnēson
+[2]
+ 
+ἔαρος ἀρχομένου, οἱ Ἀθηναῖοι ἔπλευσαν εἰς Προκόννησον
+éaros arkhoménou, hoi Athēnaîoi épleusan eis Prokónnēson
+'When spring was beginning, the Athenians sailed to Proconnesus.'
+This first example shows how a genitive absolute with a present participle is used with simultaneous actions. In this example, the two events occur at the same time, or rather, the sailing occurs during the period when spring was beginning.
+
+τὸν
+tòn
+δὲ
+dè
+Κῦρον
+Kûron
+ἦγον
+êgon
+ἔσω
+ésō
+οἱ
+hoi
+θεράποντες,
+therápontes,
+κελεύσαντος
+keleúsantos
+τοῦ
+toû
+Ἀστυάγεος
+Astuágeos
+[3]
+ 
+τὸν δὲ Κῦρον ἦγον ἔσω οἱ θεράποντες, κελεύσαντος τοῦ Ἀστυάγεος
+tòn dè Kûron êgon ésō hoi therápontes, keleúsantos toû Astuágeos
+'The servants led Cyrus inside, after Astyages gave the order.'
+This example shows a genitive absolute with an aorist participle. Here, the two events do not happen simultaneously, as they do with the present genitive absolute, but the event in the main clause occurs after the event in the participial clause.
+
+The perfect participle describes a situation which was already in existence and which still prevailed at the time of the action of the main verb, for example:
+
+ἤδη
+ḗdē
+δ’
+d’
+ἐψηφισμένων
+epsēphisménōn
+Θετταλῶν,
+Thettalôn,
+...
+...
+ἧκεν
+hêken
+[4]
+ 
+ἤδη δ’ ἐψηφισμένων Θετταλῶν, ... ἧκεν
+ḗdē d’ epsēphisménōn Thettalôn, ... hêken
+'Since the Thessalians had already voted ... he came back'
+The future is less often used in a genitive absolute. It is generally found after the particle ὡς (hōs) "in view of the fact that" or "on the grounds that",[5] for example:
+
+ὡς
+hōs
+πάντων
+pántōn
+καλῶς
+kalôs
+γενησομένων
+genēsoménōn
+[6]
+ 
+ὡς πάντων καλῶς γενησομένων
+hōs pántōn kalôs genēsoménōn
+'on the grounds that everything would turn out well'
+Absolute constructions in other languages
+Absolute constructions occur with other grammatical cases in Indo-European languages, such as the accusative absolute in Ancient Greek, German, and late Latin, ablative absolute in Latin, dative absolute in Gothic and Old Church Slavonic, and locative absolute in Vedic Sanskrit.[7] Compare also nominative absolute in English. An actual genitive absolute exists in German, such as klopfenden Herzens "(with) his/her heart beating", although its use is much less prominent compared to Greek (or to Latin's ablative or English's nominative in such constructions).
+
+References
+External links

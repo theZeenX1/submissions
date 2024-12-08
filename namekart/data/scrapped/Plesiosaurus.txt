@@ -1,0 +1,112 @@
+
+
+Plesiosaurus (Greek: πλησίος (plesios), near to + σαῦρος (sauros), lizard) is a genus of extinct, large marine sauropterygian reptile that lived during the Early Jurassic. It is known by nearly complete skeletons from the Lias of England. It is distinguishable by its small head, long and slender neck, broad turtle-like body, a short tail, and two pairs of large, elongated paddles. It lends its name to the order Plesiosauria, of which it is an early, but fairly typical member. It contains only one species, the type, Plesiosaurus dolichodeirus.  Other species once assigned to this genus, including P. brachypterygius, P. guilielmiimperatoris, and P. tournemirensis have been reassigned to new genera, such as Hydrorion, Seeleyosaurus and Occitanosaurus.
+
+Discovery
+The first complete skeleton of Plesiosaurus was discovered by early paleontologist and fossil hunter Mary Anning in Sinemurian (Early Jurassic)-age rocks of the lower Lias Group in December 1823.[1][2] Additional fossils of Plesiosaurus were found in rocks of the Lias Group of Dorset for many years,[3][4][5] "until the cessation of quarrying activities in the Lias Group, early in this [20th] century."[2] although less complete remains were used by Henry De la Beche and William Conybeare to name the species two years earlier in 1821,[6] and despite being discovered first, Conybeare's remains were not the holotype; Anning's were.
+
+Plesiosaurus was one of the first of the "antediluvian reptiles" to be discovered and excited great interest in 19th-century England. It was so-named ("near lizard") by William Conybeare and Henry De la Beche, to indicate that it was more like a normal reptile than Ichthyosaurus, which had been found in the same rock strata just a few years earlier. Plesiosaurus is the archetypical genus of Plesiosauria and the first to be described, hence lending its name to the order. Conybeare and De la Beche coined the name for scattered finds from the Bristol region, Dorset, and Lyme Regis in 1821.[6] The type species of Plesiosaurus, P. dolichodeirus, was named and described by Conybeare in 1824 on the basis of Anning's original finds.
+
+Description
+Skull and dentition
+Compared to other plesiosaur genera, Plesiosaurus has a small head. The skull is much narrower than long,[7] reaching its greatest width just behind the eyes (the postorbital bar).[8] The anterior portion is "bluntly triangular".[8] In lateral view, the skull reaches its highest point at the rear of the skull table.[9] "The external nostrils overlie the internal nares".[8] They are not positioned at the tip of the snout, but farther back, nearer the eyes than the tip of the skull.[7] Unlike the nostrils of Rhomaleosaurus,[10] they do not appear to be adapted for underwater olfaction.[8] The orbits (eye sockets) are roughly circular and are positioned about halfway along the length of the skull.[8] They face up and to the sides.[7][9] Just posterior to the orbits are the supratemporal fenestrae, which are about the same size as the orbits and also roughly circular.[8] Between the four openings is the pineal foramen, and between the temporal fenestrae is a narrow sagittal ridge.[8] As in other plesiosaurs, the pterygoids of the palate are fused to the basioccipital of the braincase,[8] although the union is not as robust as in the pliosaurs Rhomaleosaurus and Pliosaurus.[8][11] "The palatal bones are thin, but there is no suborbital fenestra."[8]
+
+The two rami of the lower jaw make a "V" shape with an angle of about 45°.[7] The specialized region where they meet, the symphysis, is robust. The two rami are fused at the symphysis, making a pointed, shallow scoop-like shape.[12]
+
+The teeth of Plesiosaurus are "simple, needle-like cones" that are "slightly curved and circular in transverse section". They are sharply pointed with fine striations running from tip to base, and point forward (procumbent). This procumbency becomes more pronounced near the leading end of the skull, where they may be only 10–15° above horizontal.[7] There are 20 to 25 teeth per upper jaw tooth row,[8] and 24 per low jaw tooth row.[7] Up to four teeth of a lower jaw's tooth row are found in the symphyseal region.[12]
+
+Vertebral column
+Plesiosaurus was a moderately sized plesiosaur that grew to 2.87–3.5 m (9.4–11.5 ft) in length.[13][14] There are approximately 40 cervical vertebrae (neck vertebrae), with different specimens preserving 38 to 42 cervical vertebrae.[15]  Of the rest of the vertebral column, there are a handful (four or five in the holotype specimen) of "pectoral" vertebrae from the neck-torso transition,[15] approximately 21 dorsal or back vertebrae, three or more sacral vertebrae, and at least 28 caudal vertebrae.[16] Generally, the centra of the cervical vertebrae are relatively elongated, being slightly longer than tall. The width, however, is usually greater than or equal to the length. The articular surfaces of the cervical centra are "slightly concave and kidney-shaped, with rounded, slightly rugose edges." Small holes called foramina subcentralia are found on the ventral surface of the centra. Some of the dorsals have rugose articular edges, like the cervicals; this feature is typically absent from the caudals.[15]
+
+Ribs are found from the neck to the tail. Cervical ribs are hatchet-shaped and have two articular heads.[15] Dorsal ribs are thick and have only one head. Sacral ribs are "short, robust, and blunt or knob-like on both ends." Caudal ribs have different morphologies depending on their location along the tail, with anterior examples being pointed and more distal examples being "broad and blunt."[15] Plesiosaurus also has gastralia, also known as "belly ribs." Nine or more sets of gastralia are present between the shoulder and pelvis. Each set is composed of seven elements: a bone on the midline flanked by three lateral elements.[16]
+
+Limbs
+The shoulder girdle is only partly known but appears to be typical for plesiosaurs. It includes fused clavicles at the anterior end, scapulae (shoulder blades), and large coracoids. The scapulae and coracoids both contribute to the glenoids (arm sockets). A pair of oval holes called pectoral fenestrae are found midway along the scapular/coracoid contacts.[16] The forelimbs are elongate and relatively narrow compared to those of most plesiosaurs. The humerus (upper arm bone) has distinctive curvature, which appears to be a retained primitive feature among sauropterygians. Mature Plesiosaurus also have a distinctive groove along the ventral surface of the humerus. The forearm includes a flat, broad, crescent-shaped ulna and a "robust and pillar-like" radius. The wrist includes six bones.[17] The hand paddle has five digits; the phalangeal formula is uncertain, but the count for one large individual, from "thumb" to fifth "finger", is 4-8-9-8-6.[18]
+
+The pelvis includes equant pubic bones, ischia,[18] and blade-shaped ilia connecting the pelvis to the vertebral column.[19] The acetabulum is formed by surfaces on the pubic bones and ischia. Similar to the pectoral girdle, there is a pair of holes between the ischia and pubic bones.[18] The hindlimbs are long and narrow,[19] and in adults, they are much smaller than the forelimbs.[18] The thigh bones are straight. The lower hindlimb includes two roughly equal-sized bones, the robust tibia and the semilunate-shaped fibula. There are six bones in the ankle. The foot paddle includes five digits. Like the hand, the phalangeal formula is uncertain, but is at least 3-7-9-8-7 from innermost to outer "toe".[19]
+
+Classifications
+Plesiosaurus has historically been a wastebasket taxon. This is due in part to few anatomical or taxonomic studies of the relevant fossils. Uncritical taxonomic work resulted in hundreds of species representing most of the world and most of the Mesozoic being assigned to Plesiosaurus. None of the younger Jurassic or Cretaceous species belong to Plesiosaurus. Review of the Early Jurassic species indicates that the only English species properly assigned to Plesiosaurus is P. dolichodeirus.[2] Several other European Early Jurassic species have been assigned to new genera. P. brachypterygius, P. guilielmiimperatoris and P. tournemirensis, for example,  were assigned to the new genera Hydrorion, Seeleyosaurus and Occitanosaurus.
+
+The following cladogram follows an analysis by Benson et al., 2012, and shows the placement of Plesiosaurus within Plesiosauria.[20]
+
+"Pistosaurus postcranium"
+
+Pistosaurus
+
+Yunguisaurus liae
+
+Augustasaurus hagdorni
+
+Bobosaurus forojuliensis
+
+Anningasaura lymense
+
+Stratesaurus taylori
+
+Macroplata tenuiceps
+
+Avalonnectes arturi
+
+Eurycleidus arcuatus
+
+Meyerasaurus victor
+
+Maresaurus coccai
+
+Atychodracon megacephalus
+
+Archaeonectrus rostratus
+
+Rhomaleosaurus cramptoni
+
+Rhomaleosaurus thorntoni
+
+Rhomaleosaurus zetlandicus
+
+Thalassiodracon hawkinsi
+
+Hauffiosaurus spp.
+
+Attenborosaurus conybeari
+
+advanced pliosaurids (Peloneustes)
+
+Eoplesiosaurus antiquior
+
+Plesiosaurus dolichodeirus
+
+Plesiopterys wildi
+
+Cryptoclidus eurymerus
+
+Eretmosaurus rugosus
+
+Westphaliasaurus simonsensii
+
+Seeleyosaurus guilelmiimperatoris
+
+Microcleidus tournemiensis
+
+Microcleidus brachypterygius
+
+Microcleidus homalospondylus
+
+Palaeobiology
+Plesiosaurus fed mainly on clams and snails, and is thought to have eaten belemnites, fish and other prey as well.[21] Its U-shaped jaw and sharp teeth would have been like a fish trap. It propelled itself by the paddles, the tail being too short to be of much use. Its neck could have been used as a rudder when navigating during a chase. Plesiosaurus gave live birth to live young in the water like most sea snakes. The young might have lived in estuaries before moving out into the open ocean.
+It has been postulated that the long neck of Plesiosaurus would have been a hindrance when trying to speed up, any bend in the neck creating turbulences.[22] If that is the case then Plesiosaurus would have had to keep its neck straight to achieve good acceleration, something that would make hunting difficult. For this reason it may be possible that these animals would actually lie in wait for prey to come close instead of trying to pursue them.
+
+Palaeoenvironment
+Unequivocal specimens of Plesiosaurus dolichodeirus are limited to the Lyme Regis area of Dorset.[23] It appears to be the most common species of plesiosaur in the Lias Group of England.[24] Plesiosaurus is best represented from the "upper part of the Blue Lias, the 'Shales with Beef,' and the lower Black Ven Marls" the latter of which form part of the Charmouth Mudstone; using the Lias Group ammonite fossil zones, these rocks date to the early Sinemurian stage. Some other Plesiosaurus fossils are from later Sinemurian rocks. The oldest specimen may be a skull thought to come from late Rhaetian or early Hettangian rocks.[25]
+
+See also
+References
+Notes
+Sources
+External links
+
+
+
+
+
+

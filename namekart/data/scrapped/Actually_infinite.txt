@@ -1,0 +1,90 @@
+In the philosophy of mathematics, the abstraction of actual infinity, also called completed infinity,[1] involves infinite entities as given, actual and completed objects. 
+
+Since Greek antiquity, the concept of actual infinity has been a subject of debate among philosophers. Also, the question of whether the Universe is infinite is still a debate between physicists. 
+
+The concept of actual infinity has been introduced in mathematics near the end of the 19th century by Georg Cantor, with his theory of infinite sets, later formalized into Zermelo–Fraenkel set theory. This theory, which is presently commonly accepted as a foundation of mathematics, contains the axiom of infinity, which means that the natural numbers form a set (necessarily infinite). A great discovery of Cantor is that, if one accepts infinite sets, then there are different sizes (cardinalities) of infinite sets, and, in particular, the cardinal of the continuum of the real numbers is strictly larger than the cardinal of the natural numbers.
+
+Actual infinity is to be contrasted with potential infinity, in which an endless process (such as "add 1 to the previous number") produces a sequence with no last element, and where each individual result is finite and is achieved in a finite number of steps. This type of process occurs in mathematics, for instance, in standard formalizations of the notions of an infinite series, infinite product, or limit.[2]
+
+Anaximander
+The ancient Greek term for the potential or improper infinite was apeiron (unlimited or indefinite), in contrast to the actual or proper infinite aphorismenon.[3] Apeiron stands opposed to that which has a peras (limit). These notions are today denoted by potentially infinite and actually infinite, respectively.
+
+Anaximander (610–546 BC) held that the apeiron was the principle or main element composing all things. Clearly, the 'apeiron' was some sort of basic substance. Plato's notion of the apeiron is more abstract, having to do with indefinite variability. The main dialogues where Plato discusses the 'apeiron' are the late dialogues Parmenides and the Philebus.
+
+Aristotle
+Aristotle sums up the views of his predecessors on infinity as follows:
+
+"Only the Pythagoreans place the infinite among the objects of sense (they do not regard number as separable from these), and assert that what is outside the heaven is infinite. Plato, on the other hand, holds that there is no body outside (the Forms are not outside because they are nowhere), yet that the infinite is present not only in the objects of sense but in the Forms also." (Aristotle)[4]
+The theme was brought forward by Aristotle's consideration of the apeiron—in the context of mathematics and physics (the study of nature):
+
+"Infinity turns out to be the opposite of what people say it is. It is not 'that which has nothing beyond itself' that is infinite, but 'that which always has something beyond itself'." (Aristotle)[5]
+Belief in the existence of the infinite comes mainly from five considerations:[6]
+
+Aristotle postulated that an actual infinity was impossible, because if it were possible, then something would have attained infinite magnitude, and would be "bigger than the heavens." However, he said, mathematics relating to infinity was not deprived of its applicability by this impossibility, because mathematicians did not need the infinite for their theorems, just a finite, arbitrarily large magnitude.[7]
+
+Aristotle's potential–actual distinction
+Aristotle handled the topic of infinity in Physics and in Metaphysics. He distinguished between actual and potential infinity. Actual infinity is completed and definite, and consists of infinitely many elements. Potential infinity is never complete: elements can be always added, but never infinitely many.
+
+"For generally the infinite has this mode of existence: one thing is always being taken after another, and each thing that is taken is always finite, but always different."
+
+Aristotle distinguished between infinity with respect to addition and division.
+
+But Plato has two infinities, the Great and the Small.
+
+"As an example of a potentially infinite series in respect to increase, one number can always be added after another in the series that starts 1,2,3,... but the process of adding more and more numbers cannot be exhausted or completed."[citation needed]
+With respect to division, a potentially infinite sequence of divisions might start, for example, 1, 1/2, 1/4, 1/8, 1/16, but the process of division cannot be exhausted or completed.
+
+"For the fact that the process of dividing never comes to an end ensures that this activity exists potentially, but not that the infinite exists separately."
+
+Aristotle also argued that Greek mathematicians knew the difference among the actual infinite and a potential one, but they "do not need the [actual] infinite and do not use it" (Phys. III 2079 29).[8]
+
+Scholastic, Renaissance and Enlightenment thinkers
+The overwhelming majority of scholastic philosophers adhered to the motto Infinitum actu non datur. This means there is only a (developing, improper, "syncategorematic") potential infinity but not a (fixed, proper, "categorematic") actual infinity. There were exceptions, however, for example in England.
+
+It is well known that in the Middle Ages all scholastic philosophers advocate Aristotle's "infinitum actu non datur" as an irrefutable principle. (G. Cantor)[9]
+Actual infinity exists in number, time and quantity. (J. Baconthorpe [9, p. 96])
+During the Renaissance and by early modern times the voices in favor of actual infinity were rather rare.
+
+The continuum actually consists of infinitely many indivisibles (G. Galilei [9, p. 97])
+I am so in favour of actual infinity. (G.W. Leibniz [9, p. 97])
+However, the majority of pre-modern thinkers[citation needed] agreed with the well-known quote of Gauss:
+
+I protest against the use of infinite magnitude as something completed, which is never permissible in mathematics. Infinity is merely a way of speaking, the true meaning being a limit which certain ratios approach indefinitely close, while others are permitted to increase without restriction.[10] (C.F. Gauss [in a letter to Schumacher, 12 July 1831])
+Modern era
+Actual infinity is now commonly accepted in mathematics, although the term is no longer in use, being replaced by the concept of infinite sets. This drastic change was initialized by Bolzano and Cantor in the 19th century, and was one of the origins of the foundational crisis of mathematics.
+
+Bernard Bolzano, who introduced the notion of set (in German: Menge), and Georg Cantor, who introduced set theory, opposed the general attitude. Cantor distinguished three realms of infinity: (1) the infinity of God (which he called the "absolutum"), (2) the infinity of reality (which he called "nature") and (3) the transfinite numbers and sets of mathematics.
+
+A multitude which is larger than any finite multitude, i.e., a multitude with the property that every finite set [of members of the kind in question] is only a part of it, I will call an infinite multitude. (B. Bolzano [2, p. 6])
+Accordingly I distinguish an eternal uncreated infinity or absolutum, which is due to God and his attributes, and a created infinity or transfinitum, which has to be used wherever in the created nature an actual infinity has to be noticed, for example, with respect to, according to my firm conviction, the actually infinite number of created individuals, in the universe as well as on our earth and, most probably, even in every arbitrarily small extended piece of space. (Georg Cantor)[11] (G. Cantor [8, p. 252])
+The numbers are a free creation of human mind. (R. Dedekind [3a, p. III])
+One proof is based on the notion of God. First, from the highest perfection of God, we infer the possibility of the creation of the transfinite, then, from his all-grace and splendor, we infer the necessity that the creation of the transfinite in fact has happened. (G. Cantor [3, p. 400])
+Cantor distinguished two types of actual infinity, the transfinite and the absolute, about which he affirmed:
+
+These concepts are to be strictly differentiated, insofar the former is, to be sure, infinite, yet capable of increase, whereas the latter is incapable of increase and is therefore indeterminable as a mathematical concept. This mistake we find, for example, in Pantheism. (G. Cantor, Über verschiedene Standpunkte in bezug auf das aktuelle Unendliche, in Gesammelte Abhandlungen mathematischen und philosophischen Inhalts, pp. 375, 378)[12]
+Current mathematical practice
+Actual infinity is now commonly accepted in mathematics under the name "infinite set". Indeed, set theory has been formalized as the Zermelo–Fraenkel set theory (ZF). One of the axioms of ZF is the axiom of infinity, that essentially says that the natural numbers form a set. 
+
+All mathematics has been rewritten in terms of ZF. In particular, line, curves, all sort of spaces are defined as the set of their points. Infinite sets are so common, that when one considers finite sets, this is generally explicitly stated; for example finite geometry, finite field, etc.
+
+Fermat's Last Theorem is a theorem that was stated in terms of elementary arithmetic, which has been proved only more than 350 years later. The original Wiles's proof of Fermat's Last Theorem, used not only the full power of ZF with the axiom of choice, but used implicitly a further axiom that implies the existence of very large sets. The requirement of this further axiom has been later dismissed, but infinite sets remains used in a fundamental way. This was not an obstacle for the recognition of the correctness of the proof by the community of mathematicians.
+
+Opposition from the Intuitionist school
+The mathematical meaning of the term "actual" in actual infinity is synonymous with definite, completed, extended or existential,[13] but not to be mistaken for physically existing. The question of whether natural or real numbers form definite sets is therefore independent of the question of whether infinite things exist physically in nature.
+
+Proponents of intuitionism, from Kronecker onwards, reject the claim that there are actually infinite mathematical objects or sets. Consequently, they reconstruct the foundations of mathematics in a way that does not assume the existence of actual infinities.  On the other hand, constructive analysis does accept the existence of the completed infinity of the integers.
+
+For intuitionists, infinity is described as potential; terms synonymous with this notion are becoming or constructive.[13] For example, Stephen Kleene describes the notion of a Turing machine tape as "a linear 'tape', (potentially) infinite in both directions."[14] To access memory on the tape, a Turing machine moves a read head along it in finitely many steps: the tape is therefore only "potentially" infinite, since — while there is always the ability to take another step — infinity itself is never actually reached.[15]
+
+Mathematicians generally accept actual infinities.[16] Georg Cantor is the most significant mathematician who defended actual infinities. He decided that it is possible for natural and real numbers to be definite sets, and that if one rejects the axiom of Euclidean finiteness (that states that actualities, singly and in aggregates, are necessarily finite), then one is not involved in any contradiction.
+
+The present-day conventional finitist interpretation of ordinal and cardinal numbers is that they consist of a collection of special symbols, and an associated formal language, within which statements may be made. All such statements are necessarily finite in length. The soundness of the manipulations is founded only on the basic principles of a formal language: term algebras, term rewriting, and so on. More abstractly, both (finite) model theory and proof theory offer the needed tools to work with infinities. One does not have to "believe" in infinity in order to write down algebraically valid expressions employing symbols for infinity.
+
+Modern set theory
+The philosophical problem of actual infinity concerns whether the notion is coherent and epistemically sound.
+
+Zermelo–Fraenkel set theory is presently the standard foundation of mathematics. One of its axioms is the axiom of infinity that states that there exist infinite sets, and in particular that the natural numbers form an infinite set. However, some finitist philosophers of mathematics and constructivists still object to the notion.[who?]
+
+See also
+References
+Sources

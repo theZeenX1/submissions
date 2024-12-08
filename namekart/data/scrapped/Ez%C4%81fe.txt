@@ -1,0 +1,43 @@
+Ezāfe (Persian: اضافه, lit. 'addition')[a] is a grammatical particle found in some Iranian languages, as well as Persian-influenced languages such as Azerbaijani, Ottoman Turkish and Hindi-Urdu, that links two words together.[1][2][3][4] In the Persian language, it consists of the unstressed short vowel -e or -i (-ye or -yi after vowels)[5] between the words it connects and often approximately corresponds in usage to the English preposition of. It is generally not indicated in writing in the Persian script,[6][7] which is normally written without short vowels, but it is indicated in Tajiki, which is written in the Cyrillic script, as -и without a hyphen.
+
+Ezafe in Persian
+Common uses of the Persian ezafe are:[8]
+
+After final long vowels (â ا or u و) in words, the ezâfe is marked by a ye (ی) intervening before the ezâfe ending. If a word ends in the short vowel (designated by a he ه), the ezâfe may be marked either by placing a hamze diacritic over the he (ـهٔ) or a non-connecting ye after it (ـه‌ی).[9] The ye is prevented from joining by placing a zero-width non-joiner, known in Persian as nim-fâsele (نیم‌فاصله), after the he.
+
+The Persian grammatical term ezâfe is borrowed from the Arabic concept of iḍāfa ("addition"), where it denotes a genitive construction between two or more nouns, expressed using case endings.[citation needed][dubious – discuss] However, whereas the Iranian ezâfe denotes a grammatical particle (or even a pronoun), in Arabic, the word iḍāfa actually denotes the relationship between the two words.[citation needed][clarification needed] In Arabic, two words in an iḍāfa construction are said in English to be in possessed-possessor construction (where the possessed is in the construct state and any case, and the possessor is in the genitive case and any state).
+
+In Hindi-Urdu
+Iẓāfat, in Hindi and Urdu, is a syntactical construction of two nouns, where the first component is a determined noun, and the second is a determiner. This construction was borrowed from Persian.[1][3][4][2] In Hindi-Urdu, a short vowel "i" is used to connect these two words, and when pronouncing the newly formed word the short vowel is connected to the first word. If the first word ends in a consonant or an ʿain (ع), it may be written as zer ( ــِـ ) at the end of the first word, but usually is not written at all. If the first word ends in choṭī he (ہ) or ye (ی or ے) then hamzā (ء) is used above the last letter (ۂ or ئ or ۓ). If the first word ends in a long vowel (ا or و), then a different variation of baṛī ye (ے) with hamzā on top (ئے, obtained by adding ے to ئ) is added at the end of the first word. In Devanagari, these characters are written as ए.[10]
+
+In other languages
+Besides Persian, ezafe is found in other Iranian languages and in Turkic languages, which have historically borrowed many phrases from Persian. Ottoman Turkish made extensive use of ezafe, borrowing it from Persian (the official name of the Ottoman Empire was دولتِ عَليۀ عُثمانيه Devlet-i Âliye-i Osmaniyye), but it is transcribed as -i or -ı rather than -e. Ezafe is also used frequently in Hindustani, but its use is mostly restricted to poetic settings or to phrases imported wholesale from Persian since Hindustani expresses the genitive with the native declined possessive postposition kā. The title of the Bollywood film, Salaam-e-Ishq, is an example of the use of the ezafe in Hindustani. Other examples of ezafe in Hindustani include terms like sazā-e-maut "death penalty" and qābil-e-tārīf "praiseworthy". It can also be found in the neo-Bengali language (Bangladeshi) constructions especially for titles such as Sher-e-Bangla (Tiger of Bengal), Jamaat-e-Islami (Islamic assembly) and Mah-e-Romzan (Month of Ramadan).
+
+The Albanian language also has an ezafe-like construction, as for example in Partia e Punës e Shqipërisë, Party of Labour of Albania (the Albanian communist party). The linking particle declines in accordance to the gender, definiteness, and number of the noun that precedes it. It is used in adjectival declension and forming the genitive:
+
+Besides the above mentioned languages, ezafe is used in Kurdish in Syria, Iraq, Turkey and Iran:
+
+Çem-ê
+river-EZAFE‍
+Dîclê
+Tigris
+Çem-ê Dîclê
+river-EZAFE‍ Tigris
+The Tigris River
+Etymology
+Originally, in Old Persian, nouns had case endings, just like every other early Indo-European language (such as Latin, Greek, and Proto-Germanic). A genitive construction would have looked much like an Arabic iḍāfa construct, with the first noun being in any case, and the second being in the genitive case, as in Arabic or Latin.
+
+However, over time, a relative pronoun such as tya or hya (meaning "which") began to be interposed between the first element and its genitive attribute. 
+
+William St. Clair Tisdall states that the modern Persian ezafe stems from the relative pronoun which, which in Eastern Iranian languages (Avestan) was yo or yat.  Pahlavi (Middle Persian) shortened it to ī (spelled with the letter Y in Pahlavi scripts), and after noun case endings passed out of usage, this relative pronoun which (pronounced /e/ in New Persian), became a genitive "construct" marker. Thus the phrase
+
+historically means "man which (is) good" rather than "good man."[12]
+
+In other modern Iranian languages, such as Northern Kurdish, the ezafe particle is still a relative pronoun, which declines for gender and number.[13] However, rather than translating it as "which," as its etymological origin suggests, a more accurate translation for the New Persian use of ezafe would be a linking genitive/attributive "of" or, in the case of adjectives, not translating it.
+
+Since the ezafe is not typical of the Avestan language and most East Iranian languages, where the possessives and adjectives normally precede their head noun without a linker, an argument has been put forward that the ezafe construction ultimately represents a substrate feature, more specifically, an outcome of the Elamite influence on Old Persian, which followed the Iranian migration to the territories previously inhabited by the Elamites.[14]
+
+See also
+Notes
+References
+References

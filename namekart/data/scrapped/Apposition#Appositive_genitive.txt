@@ -1,0 +1,36 @@
+Apposition is a grammatical construction in which two elements, normally noun phrases, are placed side by side so one element identifies the other in a different way. The two elements are said to be in apposition, and one of the elements is called the appositive, but its identification requires consideration of how the elements are used in a sentence.
+
+For example, in these sentences, the phrases Alice Smith and my sister are in apposition, with the appositive identified with italics:
+
+Traditionally, appositives were called by their Latin name appositio, derived from the Latin ad ("near") and positio ("placement"), although the English form is now more commonly used.
+
+Apposition is a figure of speech of the scheme type and often results when the verbs (particularly verbs of being) in supporting clauses are eliminated to produce shorter descriptive phrases. That makes them often function as hyperbatons, or figures of disorder, because they can disrupt the flow of a sentence. For example, in the phrase: "My wife, a surgeon by training,...", it is necessary to pause before the parenthetical modification "a surgeon by training".
+
+Restrictive versus non-restrictive
+A restrictive appositive provides information essential to identifying the phrase in apposition.  It limits or clarifies that phrase in some crucial way, such that the meaning of the sentence would change if the appositive were removed.  In English, restrictive appositives are not set off by commas.  The sentences below use restrictive appositives. Here and elsewhere in this section, the relevant phrases are marked as the appositive phraseA or the phrase in appositionP.
+
+A non-restrictive appositive provides information not critical to identifying the phrase in apposition.  It provides non-essential information, and the essential meaning of the sentence would not change if the appositive were removed.  In English, non-restrictive appositives are typically set off by commas.[1]  The sentences below use non-restrictive appositives.
+
+The same phrase can be a restrictive appositive in one context and a non-restrictive appositive in another:
+
+If there is any doubt that the appositive is non-restrictive, it is safer to use the restrictive punctuation.[citation needed]  In the example above, the restrictive first sentence is still correct even if there is only one brother.
+
+A relative clause is not always an appositive.
+
+More examples:
+Zero article: 
+
+Examples
+In the following examples, the appositive phrases are shown in italics:
+
+A false title is a kind of restrictive appositive, as in "Noted biologist Jane Smith has arrived". Here the phrase noted biologist appears without an article as if it were a title. The grammatical correctness of false titles is controversial.
+
+Appositive phrases can also serve as definitions:
+
+Appositive genitive
+In several languages, the same syntax that is used to express such relations as possession can also be used appositively:
+
+See also
+Notes
+References
+External links

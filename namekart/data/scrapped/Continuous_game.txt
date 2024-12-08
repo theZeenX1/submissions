@@ -1,0 +1,876 @@
+
+A continuous game is a mathematical concept, used in game theory, that generalizes the idea of an ordinary game like tic-tac-toe (noughts and crosses) or checkers (draughts). In other words, it extends the notion of a discrete game, where the players choose from a finite set of pure strategies. The continuous game concepts allows games to include more general sets of pure strategies, which may be uncountably infinite. 
+
+In general, a game with uncountably infinite strategy sets will not necessarily have a Nash equilibrium solution. If, however, the strategy sets are required to be compact and the utility functions continuous, then a Nash equilibrium will be guaranteed; this is by Glicksberg's generalization of the Kakutani fixed point theorem. The class of continuous games is for this reason usually defined and studied as a subset of the larger class of infinite games (i.e. games with infinite strategy sets) in which the strategy sets are compact and the utility functions continuous.
+
+Formal definition
+Define the n-player continuous game 
+
+
+
+G
+=
+(
+P
+,
+
+C
+
+,
+
+U
+
+)
+
+
+{\displaystyle G=(P,\mathbf {C} ,\mathbf {U} )}
+
+ where
+
+Let 
+
+
+
+
+
+σ
+
+
+−
+i
+
+
+
+
+{\displaystyle {\boldsymbol {\sigma }}_{-i}}
+
+ be a strategy profile of all players except for player 
+
+
+
+i
+
+
+{\displaystyle i}
+
+.  As with discrete games, we can define a best response correspondence for player 
+
+
+
+i
+
+
+
+{\displaystyle i\,}
+
+, 
+
+
+
+
+b
+
+i
+
+
+ 
+
+
+{\displaystyle b_{i}\ }
+
+.  
+
+
+
+
+b
+
+i
+
+
+
+
+
+{\displaystyle b_{i}\,}
+
+ is a relation from the set of all probability distributions over opponent player profiles to a set of player 
+
+
+
+i
+
+
+{\displaystyle i}
+
+'s strategies, such that each element of
+
+is a best response to 
+
+
+
+
+σ
+
+−
+i
+
+
+
+
+{\displaystyle \sigma _{-i}}
+
+.  Define
+
+A strategy profile 
+
+
+
+
+σ
+
+∗
+
+
+{\displaystyle {\boldsymbol {\sigma }}*}
+
+ is a Nash equilibrium if and only if
+
+
+
+
+
+σ
+
+∗
+∈
+
+b
+
+(
+
+σ
+
+∗
+)
+
+
+{\displaystyle {\boldsymbol {\sigma }}*\in \mathbf {b} ({\boldsymbol {\sigma }}*)}
+
+
+The existence of a Nash equilibrium for any continuous game with continuous utility functions can be proven using  Irving Glicksberg's generalization of the Kakutani fixed point theorem.[1]  In general, there may not be a solution if we allow strategy spaces, 
+
+
+
+
+C
+
+i
+
+
+
+
+
+{\displaystyle C_{i}\,}
+
+'s which are not compact, or if we allow non-continuous utility functions.
+
+Separable games
+A separable game is a continuous game where, for any i, the utility function 
+
+
+
+
+u
+
+i
+
+
+:
+
+C
+
+→
+
+R
+
+
+
+{\displaystyle u_{i}:\mathbf {C} \to \mathbb {R} }
+
+ can be expressed in the sum-of-products form:
+
+A polynomial game is a separable game where each 
+
+
+
+
+C
+
+i
+
+
+
+
+
+{\displaystyle C_{i}\,}
+
+ is a compact interval on 
+
+
+
+
+R
+
+
+
+
+{\displaystyle \mathbb {R} \,}
+
+ and each utility function can be written as a multivariate polynomial.
+
+In general, mixed Nash equilibria of separable games are easier to compute than non-separable games as implied by the following theorem:
+
+Whereas an equilibrium strategy for a non-separable game may require an uncountably infinite support, a separable game is guaranteed to have at least one Nash equilibrium with finitely supported mixed strategies.
+
+Examples
+Separable games
+Consider a zero-sum 2-player game between players X and Y, with 
+
+
+
+
+C
+
+X
+
+
+=
+
+C
+
+Y
+
+
+=
+
+[
+
+0
+,
+1
+
+]
+
+
+
+{\displaystyle C_{X}=C_{Y}=\left[0,1\right]}
+
+.  Denote elements of 
+
+
+
+
+C
+
+X
+
+
+
+
+
+{\displaystyle C_{X}\,}
+
+ and 
+
+
+
+
+C
+
+Y
+
+
+
+
+
+{\displaystyle C_{Y}\,}
+
+ as 
+
+
+
+x
+
+
+
+{\displaystyle x\,}
+
+ and 
+
+
+
+y
+
+
+
+{\displaystyle y\,}
+
+ respectively.  Define the utility functions 
+
+
+
+H
+(
+x
+,
+y
+)
+=
+
+u
+
+x
+
+
+(
+x
+,
+y
+)
+=
+−
+
+u
+
+y
+
+
+(
+x
+,
+y
+)
+
+
+
+{\displaystyle H(x,y)=u_{x}(x,y)=-u_{y}(x,y)\,}
+
+ where
+
+The pure strategy best response relations are:
+
+
+
+
+
+
+b
+
+X
+
+
+(
+y
+)
+
+
+
+{\displaystyle b_{X}(y)\,}
+
+  and  
+
+
+
+
+b
+
+Y
+
+
+(
+x
+)
+
+
+
+{\displaystyle b_{Y}(x)\,}
+
+  do not intersect, so there is no pure strategy Nash equilibrium.
+However, there should be a mixed strategy equilibrium.  To find it, express the expected value, 
+
+
+
+v
+=
+
+E
+
+[
+H
+(
+x
+,
+y
+)
+]
+
+
+{\displaystyle v=\mathbb {E} [H(x,y)]}
+
+ as a linear combination of the first and second moments of the probability distributions of X and Y:
+
+(where 
+
+
+
+
+μ
+
+X
+N
+
+
+=
+
+E
+
+[
+
+x
+
+N
+
+
+]
+
+
+{\displaystyle \mu _{XN}=\mathbb {E} [x^{N}]}
+
+ and similarly for Y).
+
+The constraints on 
+
+
+
+
+μ
+
+X
+1
+
+
+
+
+
+{\displaystyle \mu _{X1}\,}
+
+ and 
+
+
+
+
+μ
+
+X
+2
+
+
+
+
+{\displaystyle \mu _{X2}}
+
+ (with similar constraints for y,) are given by Hausdorff as:
+
+Each pair of constraints defines a compact convex subset in the plane.  Since 
+
+
+
+v
+
+
+
+{\displaystyle v\,}
+
+ is linear, any extrema with respect to a player's first two moments will lie on the boundary of this subset.  Player i's equilibrium strategy will lie on
+
+Note that the first equation only permits mixtures of 0 and 1 whereas the second equation only permits pure strategies.  Moreover, if the best response at a certain point to player i lies on 
+
+
+
+
+μ
+
+i
+1
+
+
+=
+
+μ
+
+i
+2
+
+
+
+
+
+{\displaystyle \mu _{i1}=\mu _{i2}\,}
+
+, it will lie on the whole line, so that both 0 and 1 are a best response.  
+
+
+
+
+b
+
+Y
+
+
+(
+
+μ
+
+X
+1
+
+
+,
+
+μ
+
+X
+2
+
+
+)
+
+
+
+{\displaystyle b_{Y}(\mu _{X1},\mu _{X2})\,}
+
+ simply gives the pure strategy 
+
+
+
+y
+=
+
+μ
+
+X
+1
+
+
+
+
+
+{\displaystyle y=\mu _{X1}\,}
+
+, so 
+
+
+
+
+b
+
+Y
+
+
+
+
+
+{\displaystyle b_{Y}\,}
+
+ will never give both 0 and 1.
+However 
+
+
+
+
+b
+
+x
+
+
+
+
+
+{\displaystyle b_{x}\,}
+
+ gives both 0 and 1 when y = 1/2.
+A Nash equilibrium exists when:
+
+This determines one unique equilibrium where Player X plays a random mixture of 0 for 1/2 of the time and 1 the other 1/2 of the time.  Player Y plays the pure strategy of 1/2.  The value of the game is 1/4.
+
+Non-Separable Games
+Consider a zero-sum 2-player game between players X and Y, with 
+
+
+
+
+C
+
+X
+
+
+=
+
+C
+
+Y
+
+
+=
+
+[
+
+0
+,
+1
+
+]
+
+
+
+{\displaystyle C_{X}=C_{Y}=\left[0,1\right]}
+
+.  Denote elements of 
+
+
+
+
+C
+
+X
+
+
+
+
+
+{\displaystyle C_{X}\,}
+
+ and 
+
+
+
+
+C
+
+Y
+
+
+
+
+
+{\displaystyle C_{Y}\,}
+
+ as 
+
+
+
+x
+
+
+
+{\displaystyle x\,}
+
+ and 
+
+
+
+y
+
+
+
+{\displaystyle y\,}
+
+ respectively.  Define the utility functions 
+
+
+
+H
+(
+x
+,
+y
+)
+=
+
+u
+
+x
+
+
+(
+x
+,
+y
+)
+=
+−
+
+u
+
+y
+
+
+(
+x
+,
+y
+)
+
+
+
+{\displaystyle H(x,y)=u_{x}(x,y)=-u_{y}(x,y)\,}
+
+ where
+
+This game has no pure strategy Nash equilibrium.  It can be shown[3] that a unique mixed strategy Nash equilibrium exists with the following pair of cumulative distribution functions:
+
+Or, equivalently, the following pair of probability density functions:
+
+The value of the game is 
+
+
+
+4
+
+/
+
+π
+
+
+{\displaystyle 4/\pi }
+
+.
+
+Consider a zero-sum 2-player game between players X and Y, with 
+
+
+
+
+C
+
+X
+
+
+=
+
+C
+
+Y
+
+
+=
+
+[
+
+0
+,
+1
+
+]
+
+
+
+{\displaystyle C_{X}=C_{Y}=\left[0,1\right]}
+
+.  Denote elements of 
+
+
+
+
+C
+
+X
+
+
+
+
+
+{\displaystyle C_{X}\,}
+
+ and 
+
+
+
+
+C
+
+Y
+
+
+
+
+
+{\displaystyle C_{Y}\,}
+
+ as 
+
+
+
+x
+
+
+
+{\displaystyle x\,}
+
+ and 
+
+
+
+y
+
+
+
+{\displaystyle y\,}
+
+ respectively.  Define the utility functions 
+
+
+
+H
+(
+x
+,
+y
+)
+=
+
+u
+
+x
+
+
+(
+x
+,
+y
+)
+=
+−
+
+u
+
+y
+
+
+(
+x
+,
+y
+)
+
+
+
+{\displaystyle H(x,y)=u_{x}(x,y)=-u_{y}(x,y)\,}
+
+ where
+
+This game has a unique mixed strategy equilibrium where each player plays a mixed strategy with the Cantor singular function as the cumulative distribution function.[4]
+
+Further reading
+See also
+References

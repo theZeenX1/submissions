@@ -1,0 +1,119 @@
+In mathematics, a geometric transformation is any bijection of a set to itself (or to another such set) with some salient geometrical underpinning, such as preserving distances, angles, or ratios (scale). More specifically, it is a function whose domain and range are sets of points — most often both 
+
+
+
+
+
+R
+
+
+2
+
+
+
+
+{\displaystyle \mathbb {R} ^{2}}
+
+ or both 
+
+
+
+
+
+R
+
+
+3
+
+
+
+
+{\displaystyle \mathbb {R} ^{3}}
+
+ — such that the function is bijective so that its inverse exists.[1] The study of geometry may be approached by the study of these transformations, such as in transformation geometry.[2]
+
+Classifications
+Geometric transformations can be classified by the dimension of their operand sets (thus distinguishing between, say, planar transformations and spatial transformations). They can also be classified according to the properties they preserve:
+
+Each of these classes contains the previous one.[8]
+
+Transformations of the same type form groups that may be sub-groups of other transformation groups.
+
+Opposite group actions
+Many geometric transformations are expressed with linear algebra. The bijective linear transformations are elements of a general linear group. The linear transformation A is non-singular. For a row vector v, the matrix product vA gives another row vector w = vA.
+
+The transpose of a row vector v is a column vector vT, and the transpose of the above equality is 
+
+
+
+
+w
+
+T
+
+
+=
+(
+v
+A
+
+)
+
+T
+
+
+=
+
+A
+
+T
+
+
+
+v
+
+T
+
+
+.
+
+
+{\displaystyle w^{T}=(vA)^{T}=A^{T}v^{T}.}
+
+ Here AT provides a left action  on column vectors.
+
+In transformation geometry there are compositions AB. Starting with a row vector v, the right action of the composed transformation is w = vAB. After transposition, 
+
+Thus for AB the associated left group action is 
+
+
+
+
+B
+
+T
+
+
+
+A
+
+T
+
+
+.
+
+
+{\displaystyle B^{T}A^{T}.}
+
+ In the study of opposite groups, the distinction is made between opposite group actions because commutative groups are the only groups for which these opposites are equal.
+
+Active and passive transformations
+Geometric transformations can be distinguished into two types: active or alibi transformations which change the physical position of a set of points relative to a fixed frame of reference or coordinate system (alibi meaning "being somewhere else at the same time"); and passive or alias transformations which leave points fixed but change the frame of reference or coordinate system relative to which they are described (alias meaning "going under a different name").[10][11] By transformation, mathematicians usually refer to active transformations, while physicists and engineers could mean either.[citation needed]
+
+For instance, active transformations are useful to describe successive positions of a rigid body. On the other hand, passive transformations may be useful in human motion analysis to observe the motion of the tibia relative to the femur, that is, its motion relative to a (local) coordinate system which moves together with the femur, rather than a (global) coordinate system which is fixed to the floor.[11]
+
+In three-dimensional Euclidean space, any proper rigid transformation, whether active or passive, can be represented as a screw displacement, the composition of a translation along an axis and a rotation about that axis.
+
+See also
+References
+Further reading

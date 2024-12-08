@@ -1,0 +1,79 @@
+
+
+Thomson Reuters Corporation (/ˈrɔɪtərz/ ⓘ ROY-tərz) is a Canadian multinational content-driven technology conglomerate.[4] The company was founded in Toronto, Ontario, Canada and maintains its headquarters at 19 Duncan Street there.[5]
+
+Thomson Reuters was created by the Thomson Corporation's purchase of the British company Reuters Group on 17 April 2008.[6] It is majority-owned by The Woodbridge Company, a holding company for the Thomson family of Canada.[7]
+
+History
+Thomson Corporation
+The forerunner of the Thomson company was founded in 1934 by Roy Thomson in Ontario as the publisher of The Timmins Daily Press.[8] In 1953, Thomson acquired the Scotsman newspaper and moved to Scotland the following year. He consolidated his media position in Scotland in 1957, when he won the franchise for Scottish Television. In 1959, he bought the Kemsley Group, a purchase that eventually gave him control of the Sunday Times. He separately acquired the Times in 1967. He moved into the airline business in 1965, when he acquired Britannia Airways, and into oil and gas exploration in 1971, when he participated in a consortium to exploit reserves in the North Sea. Following the death of Thomson, the company withdrew from national newspapers and broadcast media, selling the Times and the Sunday Times to Rupert Murdoch's News International in 1981, and instead moved into publishing, buying Sweet & Maxwell in 1988. The company at this time was known as the International Thomson Organization Ltd (ITOL).[9]
+
+In 1989, ITOL merged with Thomson Newspapers, forming the Thomson Corporation. In 1996, the Thomson Corporation acquired West Publishing, a purveyor of legal research and services (including Westlaw).[10]
+
+Reuters Group
+The company was founded in 1851 by Paul Julius Reuter in London as a business transmitting stock market quotations.[10] Reuter set up his "Submarine Telegraph" office in October 1851 and negotiated a contract with the London Stock Exchange to provide stock prices from the continental exchanges in return for access to London prices, which he then supplied to stockbrokers in Paris.[10] In 1865, Reuters in London was the first organization to report the assassination of Abraham Lincoln.[10] The company was involved in developing the use of radio in 1923.[10] It was acquired by the British National & Provincial Press in 1941, and it first listed on the London Stock Exchange in 1984.[10] Reuters began to grow rapidly in the 1980s, widening the range of its business products and expanding its global reporting network for media, financial and economic services. Key product launches included Equities 2000 (1987), Dealing 2000-2 (1992), Business Briefing (1994), Reuters Television for the financial markets (1994), 3000 Series (1996) and the Reuters 3000 Xtra service (1999).[10]
+
+Thomson acquisition of Reuters
+The Thomson Corporation acquired Reuters Group plc to form Thomson Reuters on 17 April 2008.[11] Thomson Reuters operated under a dual-listed company ("DLC") structure and had two parent companies, both of which were publicly listed — Thomson Reuters Corporation and Thomson Reuters plc. In 2009, it unified its dual listed company structure and stopped its listing on the London Stock Exchange and NASDAQ. As of October 2022,[update] it is listed only as Thomson Reuters Corporation on the New York Stock Exchange and Toronto Stock Exchange (symbol: TRI).[12][13]
+
+Thomson Reuters was ranked first in Interbrand's 2010 ranking of Canadian corporate brands.[14]
+
+In February 2013, Thomson Reuters announced it would cut 2,500 jobs to cut costs in its legal, financial and risk divisions.[15] In October 2013, Thomson Reuters announced it would cut another 3,000 jobs, mostly in those same three divisions.[16]
+
+Market position and Thomson Reuters merger antitrust review
+The Thomson-Reuters merger transaction was reviewed by the U.S. Department of Justice and by the European Commission. On 19 February 2008, both the Department of Justice and the Commission cleared the transaction subject to minor divestments.[17] The Department of Justice required the parties to sell copies of the data contained in the following products: Thomson's WorldScope, a global fundamentals product; Reuters Estimates, an earnings estimates product; and Reuters Aftermarket (Embargoed) Research Database, an analyst research distribution product. The proposed settlement further requires the licensing of related intellectual property, access to personnel, and transitional support to ensure that the buyer of each set of data can continue to update its database so as to continue to offer users a viable and competitive product.[18] The European Commission imposed similar divestments: according to the commission's press release, "the parties committed to divest the databases containing the content sets of such financial information products, together with relevant assets, personnel and customer base as appropriate to allow purchasers of the databases and assets to quickly establish themselves as a credible competitive force in the marketplace in competition with the merged entity, re-establishing the pre-merger rivalry in the respective fields."[19]
+
+These remedies were viewed as very minor given the scope of the transaction.  According to the Financial Times, "the remedy proposed by the competition authorities will affect no more than $25m of the new Thomson Reuters group's $13bn-plus combined revenues."[20]
+
+The transaction was cleared by the Canadian Competition Bureau.[21]
+
+In November 2009, the European Commission opened formal antitrust proceedings[22] against Thomson Reuters concerning a potential infringement of the EC Treaty's rules on abuse of a dominant market position (Article 82). The Commission investigated Thomson Reuters' practices in the area of real-time market datafeeds, and particularly, whether customers or competitors were prevented from translating Reuters Instrument Codes (RICs) to alternative identification codes of other datafeed suppliers (so-called 'mapping') to the detriment of competition. In December 2012, the European Commission adopted a decision that renders legally binding the commitments offered by Thomson Reuters to create a new licence ("ERL") allowing customers, for a monthly fee, to use Reuters Instrument Codes (RICs) in applications for data sourced from Thomson Reuters' real time consolidated datafeed competitors to which they have moved.[23]
+
+Reuters purchase process
+Historically, no single individual has been permitted to own more than 15% of Reuters, under the first of the Reuters Principles, which states, "Reuters shall at no time pass into the hands of any one interest, group or faction."[24] However, that restriction was waived for the purchase by Thomson, whose family holding company, the Woodbridge Company currently owns 53% of the enlarged business. Robert Peston, business editor at BBC News, stated that this has worried Reuters journalists, both because they are concerned that Reuters' journalism business will be marginalized by the financial data provision business of the combined company, and because of the threat to Reuters's reputation for unbiased journalism by the appearance of one majority shareholder.
+
+Pehr Gyllenhammar, Chairman of the Reuters Founders Share Company, explained that the Reuters Trust's First Principle had been waived for the Thomson family because of the poor financial circumstances that Reuters had been in, stating, "The future of Reuters takes precedence over the principles. If Reuters were not strong enough to continue on its own, the principles would have no meaning." He stated, not having met David Thomson but having discussed the matter with Geoff Beattie, the president of Woodbridge, that the Thomson family had agreed to vote as directed by the Reuters Founders Share Company on any matter that the trustees might deem to threaten the five principles of the Reuters Trust. Woodbridge will be allowed an exemption from the First Principle as long as it remains controlled by the Thomson family.[25][26][27][28]
+
+Commercial products and activities
+Operations
+The chief executive of the combined company is Steve Hasker, who was the chief executive for the professional division, and the chairman is David Thomson.[11][29][30]
+
+In 2018, the company was organized around four divisions: Legal, Reuters News Agency, Tax & Accounting, and Government.[31]
+
+Former divisions: Intellectual Property & Science, Financial & Risk, Thomson Healthcare, and Scholarly & Scientific Research.
+
+As of 2018, the Financial & Risk division makes for over half of the company's revenue.[32]
+
+Thomson Reuters competes with  Bloomberg L.P., in aggregating financial and legal news.[33]
+
+Thomson Reuters subscriptions compete with open access alternatives, accessible through open data and open source aggregators such as Unpaywall, which can help counter the increase in subscription costs (+779% in the 1995–2015 period vs. 58% for the consumer price index).[34]
+
+Merative
+In 2012, Thomson Reuters sold its Healthcare division to Veritas Capital, who renamed the business Truven Health Analytics.[35] IBM Corporation acquired Truven Health Analytics on February 18, 2016, and merged it with IBM's Watson Health unit.[36] On June 30, 2022, Francisco Partners announced the completion of acquiring Watson Health and launched a healthcare data company named Merative.[37]
+
+Clarivate
+Clarivate was formerly the Intellectual Property and Science division of Thomson Reuters. Before 2008, it was known as Thomson Scientific.[38] In 2016, Thomson Reuters struck a $3.55 billion deal in which they spun it off as an independent company, and sold it to private-equity firms Onex Corporation and Baring Private Equity Asia.[39][40]
+
+Acquisitions and divestitures
+In 1998, Reuters Group plc acquired Lipper Analytical as a wholly owned subsidiary.[41] Lipper became part of Thomson Reuters in April 2008, following the merger of Thomson Financial and Reuters. (The Lipper Fiduciary Services and Lipper FMI was purchased by Broadridge Financial Solutions in May 2015.)[42]
+
+In 2009, Thomas Reuters acquired numerous companies, including data mining provider Streamlogics,[43] tick data company Vhayu Technologies,[44] European PR distribution group Hugin Group,[45] Breaking Views, and Deloitte's Abacus corporate taxation software.[46]That year, the company also sold the Physician's Desk Reference to Lee Equity Partners.[47]
+
+The company has been highly acquisitive, completing over 200 acquisitions between 2008 and 2018.[32] This includes:
+
+Sponsorships
+Thomson Reuters has sponsored Canadian golf champion Mike Weir and the Williams Grand Prix Engineering Formula One team. It also sponsors Marketplace, a radio show from American Public Media.
+
+Thomson Reuters, among other media corporations, also donated hundreds of thousands of dollars to the Clinton Foundation.[106]
+
+Involvement in surveillance
+Thomson Reuters owns and operates the Consolidated Lead Evaluation and Reporting (CLEAR) database,[107][108][109] which scrapes personal and identifying data for use in law enforcement, corporate security, and fraud investigations.[110] Per the company's marketing, CLEAR compiles public records, phone records, utility records, social media information, credit history, motor vehicle registration data, and automatic license plate reader scans to create files on its subjects.[111] CLEAR has been the subject of numerous lawsuits alleging invasions of privacy and other violations of civil liberties.[112][113][114][115]
+
+In November 2019,  two groups of legal scholars and human rights activists called on Thomson Reuters to cease providing U.S. Immigration and Customs Enforcement and Palantir Technologies access to information through CLEAR, which has enabled the deportation of illegal immigrants. A company representative replied that Thomson Reuters will help the American government and police in active criminal investigations and against threats to national security or public safety.[116][117] In February 2020, a group of Thomson Reuters shareholders criticized the company's involvement with ICE for immigrant tracking.[118]
+
+In 2020, three Reuters investigative journalists, Raphael Satter, Christopher Bing and Jack Stubbs, who were conducting an investigation about a hack-for-hire company based in India, forcefully took a photograph of Kumar, a small scale Indian herbal businessman for an alleged hacker Sumit Gupta of Belltrox.[119] Kumar had showed his identity proof that he is not the alleged hacker but one of the three journalists took his photograph and used in their story. The businessman was questioned by the police, suffered reputation damage and business loss, and later relocated to a small town.[120] Reuters later admitted to an error of mistaken identity caused by the businessman's sharing of same address with the alleged hacker.[121]
+
+See also
+References
+Further reading
+External links

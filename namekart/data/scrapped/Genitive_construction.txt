@@ -1,0 +1,96 @@
+In grammar, a genitive construction or genitival construction is a type of grammatical construction used to express a relation between two nouns such as the possession of one by another (e.g. "John's jacket"), or some other type of connection (e.g. "John's father" or "the father of John"). A genitive construction involves two nouns, the head (or modified noun) and the dependent (or modifier noun). In dependent-marking languages, a dependent genitive noun modifies the head by expressing some property of it. For example, in the construction "John's jacket", "jacket" is the head and "John's" is the modifier, expressing a property of the jacket (it is owned by John). The analogous relationship in head-marking languages is pertensive.
+
+Arabs and Iranians call the head or modified noun in genitive construction "مضاف /muzaf/" and the dependent or modifier noun in genitive construction "مضاف‌الیه /muzafun-ilayh/".
+
+Methods of construction
+Genitive constructions can be expressed in various ways:
+
+By placing the dependent noun in the genitive case
+This is common in languages with grammatical case, e.g. Latin.  For example, "Cicero's father" is expressed by pater Cicerōnis or Cicerōnis pater, where the dependent noun "Cicero" (Latin Cicerō) is placed in the genitive case (Latin Cicerōnis) and then placed either before or after the head noun (pater "father").  A similar construction occurs in formal German: das Buch des Mannes "the man's book", where das Buch means "the book" and des Mannes is the genitive case of der Mann "the man".
+
+Using an adposition or other linking word
+This is common in languages without grammatical case, as well as in some languages with vestigial case systems.
+
+In some languages, the linking word agrees in gender and number with the head (sometimes with the dependent, or occasionally with both). In such cases it shades into the "his genitive" (see below).
+
+Using a clitic
+For example, the English so-called "Saxon genitive" (the "'s" modifier, as in "John's father" or "the King of Spain's house").  The two genitive constructions in English (using "of" and "'s") are not synonymous.  In some cases, both can be used ("John's father", "the father of John"; "the capital of the nation", "the nation's capital"), but some constructions feel natural one way, but expressed the other way will feel awkward or ungrammatical, or may even have a different meaning ("I found John's coat" but not I found the coat of John; "We need to encourage the love of music" but not We need to encourage music's love).
+
+Sometimes the seemingly discordant construction may be the right one, such as in the idiom will be the death of (e.g. "She'll be the death of me", meaning something close to "She'll be my downfall"—even though the latter sentence uses a possessive pronoun, the former uses a prepositional genitive).
+
+A construction called the double genitive is also used to precisely denote possession and resolve ambiguity in some cases. For example, the phrase "this is a picture of John's" denotes that the picture is owned by John, but does not necessarily feature John. By comparison, "this is a picture of John" indicates that the picture features John, and "this is John's picture" ambiguously indicates that either John owns the picture or that the picture features John. However, this construction is also considered to be either informal or not part of Standard English.
+
+The distinction between the use of a clitic and a preposition/linking word is not always clear.  For example, the Japanese particle no の "of" is sometimes analyzed as a clitic.[1] The particle no could alternatively be considered as either a particle, or as a suffix.
+
+Using the "his genitive"
+In the 1600s this construction sometimes occurred in English, e.g. Ben Jonson's play Sejanus His Fall (i.e. "Sejanus's Fall").  It is standard in Afrikaans and common in spoken German, e.g. dem Mann sein Haus "the man's house" (literally "to the man, his house").  This construction can be seen as a variation of the above use of a linking word that agrees with the dependent.  In some languages, this construction has shifted to the more normal situation for agreeing linking words where agreement is with the head, as in colloquial Norwegian Hilde sitt hus "Hilde's house" (lit. "Hilde her[REFLEXIVE] house", where the possessive pronoun agrees with the head rather than the modifier—in this case hus "house" is neuter). In this case the reflexive form of the possessive pronoun is used to refer to the immediate possessor (Hilde) and not necessarily the subject of the sentence as otherwise would be the case. 
+
+A variant of this construction appears in the Hungarian language, which has suffixes instead of Germanic languages' possessive pronouns. This results in constructions like a ház ablaka "the house's window", literally "the house window-its". A similar, although more dated, form may occur in Norwegian as well, where the above example may be expressed as huset hennes Hilde (lit. "house-the her Hilde", with the non-reflexive possessive pronoun and reversed word order) with the same meaning as before. However, that variant is restricted to where the possessor is a personal name or a familiar relation such as "father", and the equivalent of the Hungarian example would become ungrammatical: *vinduet dets hus (lit. "window-the its house"). 
+
+In the Pirahã language spoken in the Amazonas region of Brazil, pronouns do not inflect for possession, and they are used in a way similar to English -s:
+
+paitá
+Paita
+hi
+(s)he
+kaiíi
+house
+paitá hi kaiíi
+Paita (s)he house
+"Paita's house"
+ti
+I
+kahaí
+arrow
+ti kahaí
+I arrow
+"my arrow"
+Using a possessive adjective
+NOTE: In this context, this is not the same as a possessive determiner such as "my" or "his".
+
+In Russian, for example, most nouns have a corresponding adjective that is declined as a normal adjective (agreeing with its head noun) but has the meaning of a genitival modifier.  For example, in place of a normal construction using a noun in the genitive case:
+
+детство
+childhood(NEUT).NOM
+Иван-а
+Ivan-GEN
+детство Иван-а
+childhood(NEUT).NOM Ivan-GEN
+"Ivan's childhood"
+It is also possible to use a possessive adjective, which agrees with the head in number, gender and case:
+
+Иван-ов-о
+Ivan-POS.ADJ-NEUT.NOM
+детство
+childhood(NEUT).NOM
+Иван-ов-о детство
+Ivan-POS.ADJ-NEUT.NOM childhood(NEUT).NOM
+"Ivan's childhood"
+Latin also had possessive adjectives of this sort.  Sometimes these are called relational adjectives (although that term is also used for a slightly different type of adjective in Russian).
+
+Using suffixaufnahme
+Suffixaufnahme is used in some languages, and is conceptually similar to the use of possessive adjectives.  Basically, a modifying noun is marked in the genitive case, but also agrees in case, number and gender with the head—essentially, it has two case markings.  This occurs in some modern languages (e.g. Dyirbal), and also in Old Georgian:
+
+perx-ni
+foot-NOM.PL
+k'ac-isa-ni
+man-GEN-NOM.PL
+perx-ni k'ac-isa-ni
+foot-NOM.PL man-GEN-NOM.PL
+"the man's feet"
+By placing the head noun in a special case
+This is the opposite, in some sense, to the normal usage of the genitive case, since it is the head noun, rather than the dependent, that is marked.  This is common in the Semitic languages, where the head noun is placed in the so-called construct state and forms a close syntactic construction with a following dependent noun.  For example, in Hebrew, the noun bayit "house" assumes the special form bet in the construct state, as in bet ha-yeled "the child's house" (where ha-yeled means "the child").  Typically, the special form is shorter than the original, and no other modifier (e.g. adjective) can intervene between head and dependent. (In Biblical Hebrew, the entire construct was pronounced phonologically as a single word, with no stress on the construct-state noun; this triggered sound changes associated with unstressed syllables, which typically shortened the construct-state noun.)
+
+Classical Arabic has a similar construction, but the dependent noun is also placed in the genitive case:
+
+muʿallim-ū
+teacher-NOM.PL.CONSTRUCT
+l-walad-i
+the-child-GEN
+muʿallim-ū l-walad-i
+teacher-NOM.PL.CONSTRUCT the-child-GEN
+"the child's teachers"
+In this case, the word muʿallimūna "teachers" assumes the construct-state form muʿallimū, and (a)l-waladu "the child" assumes the genitive case (a)l-waladi.  No adjective can intervene between head and dependent.  Instead, an adjective such as "good" must follow the entire construction, regardless of whether the intended meaning is "the good child's teachers" or "the child's good teachers". (Gender, number and case agreement on the adjective often distinguishes the two possibilities.)
+
+See also
+Notes
