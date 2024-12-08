@@ -1,3 +1,4 @@
 *.env*
 *.conda/
 *model_savepts/
+*.pth
